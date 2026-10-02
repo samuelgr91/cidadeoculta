@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="page"><p className="eyebrow">404 / FORA DO MAPA</p><h1 style={{fontSize:70}}>Essa história ainda não está aqui.</h1><a className="button" href="/pt-br/ouro-preto/mapa">Voltar ao mapa ↗</a></main>;}

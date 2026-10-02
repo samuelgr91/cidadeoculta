@@ -1,0 +1,283 @@
+{
+  "id": "ouro-preto-op008-v1",
+  "locations": [
+    {
+      "id": "morro-da-queimada",
+      "cityId": "ouro-preto",
+      "name": "Morro da Queimada",
+      "lat": -20.380833,
+      "lng": -43.491667,
+      "address": "Ecomuseu Morro da Queimada · Serra de Ouro Preto · acesso pela região do Morro de São Sebastião",
+      "precision": "approximate"
+    }
+  ],
+  "stories": [
+    {
+      "editorialCode": "OP-008",
+      "id": "op-008",
+      "cityId": "ouro-preto",
+      "locationId": "morro-da-queimada",
+      "truthStatus": "documented",
+      "accessLevel": "premium",
+      "depth": "deep_file",
+      "category": "Revolta e vestígios arqueológicos",
+      "estimatedSeconds": 420,
+      "image": "/media/ouro-preto.jpg",
+      "imageCredit": "Alisson Jonas Cardoso Gontijo · CC BY-SA 4.0 · Wikimedia Commons. Fotografia panorâmica de Ouro Preto, não das ruínas do Morro da Queimada.",
+      "sources": [
+        {
+          "title": "Morro da Queimada — Meio Ambiente",
+          "url": "https://www.ouropreto.mg.gov.br/meioambiente/morro-queimada",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Repressão, cronologia de 28 de junho e 16 de julho de 1720, ocupação e proteção arqueológica. Consultada em 28/09/2026."
+        },
+        {
+          "title": "Ecomuseu Morro da Queimada",
+          "url": "https://www.ouropreto.mg.gov.br/turismo/atrativo-item/822",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Demolição e queima de propriedades, ocupação posterior e acesso pelo Morro de São Sebastião. A Prefeitura recomenda guia credenciado que conheça a região."
+        },
+        {
+          "title": "Monumento Arqueológico: resgate histórico e patrimônio cultural",
+          "url": "https://www.ouropreto.mg.gov.br/noticia/3916",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Registra a Lei Municipal 465 de 29/12/2008 para criação do parque. Diverge da página de Meio Ambiente sobre a data do estopim; divergência indicada na nota editorial."
+        },
+        {
+          "title": "Geoparque Quadrilátero Ferrífero — sítio 4",
+          "url": "https://rigeo.sgb.gov.br/bitstream/doc/17149/1/quadrilatero.pdf",
+          "institution": "Serviço Geológico do Brasil / UFMG / UFOP",
+          "note": "Página 209 (PDF 27): referência regional do sítio 20°22′51″S, 43°29′30″W. O impresso troca os rótulos latitude/longitude; a conversão respeita os hemisférios. Não indica entrada ou ruína específica."
+        }
+      ],
+      "localeContent": {
+        "pt-br": {
+          "slug": "morro-da-queimada-revolta-1720",
+          "title": "O Morro que o Governador Mandou Queimar",
+          "hook": "O governador mandou incendiar um assentamento. As ruínas ainda estão acima de Ouro Preto.",
+          "summary": "Em 1720, a repressão à Sedição de Vila Rica atingiu o assentamento do atual Morro da Queimada. Casas e propriedades foram demolidas e incendiadas por ordem do Conde de Assumar. Ruínas de residências, minas e reservatórios ainda permanecem no alto da cidade.",
+          "editorialNote": "A repressão e o incêndio constam de fontes municipais. Os vestígios atuais são de diferentes períodos e não podem ser todos atribuídos ao fogo de 1720. O relato segue a data de 28 de junho da Secretaria de Meio Ambiente para o estopim; outra notícia municipal cita 25 de junho. A criação do parque em 2008 e a proteção como monumento em 2012 são atos distintos. O mapa indica uma referência aproximada do sítio, não uma entrada ou ruína vistoriada. A fotografia contextualiza Ouro Preto, não estas ruínas.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Quem olha hoje para o alto da Serra de Ouro Preto encontra um conjunto de ruínas espalhadas entre caminhos, vegetação e antigas estruturas de mineração.\n\nO nome do lugar já entrega parte da história:\n\nMorro da Queimada.\n\nEle não recebeu esse nome por causa de um incêndio acidental.\n\nEm 1720, durante uma das primeiras grandes crises políticas de Vila Rica, o governador D. Pedro de Almeida Portugal, o Conde de Assumar, ordenou a repressão de um movimento que ficou conhecido como Sedição de Vila Rica ou Revolta de Felipe dos Santos.\n\nA reação do governo atingiu diretamente o assentamento minerador existente na serra.\n\nCasas foram demolidas.\n\nPropriedades foram incendiadas.\n\nE a memória do fogo acabou incorporada ao próprio nome do lugar."
+            },
+            {
+              "type": "heading",
+              "text": "Antes da queimada"
+            },
+            {
+              "type": "text",
+              "text": "O Morro da Queimada já era importante antes da revolta.\n\nA ocupação da região começou ainda na primeira década do século XVIII, durante a expansão da mineração para áreas mais elevadas da Serra de Ouro Preto.\n\nÀ medida que a exploração aurífera avançava para além dos leitos dos rios, surgiram terrenos minerais, caminhos, becos, moradias, comércio e templos religiosos.\n\nO que hoje vemos como um sítio arqueológico foi, portanto, um assentamento vivo e diretamente ligado à mineração.\n\nA área ficou conhecida por diferentes nomes.\n\nEntre eles estavam Morro do Ouro Podre e Morro do Pascoal Silva, referência a Pascoal da Silva Guimarães, homem rico e influente ligado à mineração e um dos principais personagens da crise de 1720."
+            },
+            {
+              "type": "heading",
+              "text": "O que estava acontecendo em Vila Rica"
+            },
+            {
+              "type": "text",
+              "text": "A revolta não surgiu de um único motivo.\n\nNo início da década de 1720, havia forte tensão entre grupos influentes das Minas e o governo colonial.\n\nEntre os pontos de conflito estavam a política fiscal da Coroa, a implantação das Casas de Fundição, a expulsão de determinados clérigos das áreas de mineração, disputas em torno da administração local e a reorganização das forças militares.\n\nA instalação das Casas de Fundição era especialmente sensível.\n\nO ouro passaria a ser fundido e controlado oficialmente antes de circular, ampliando a capacidade da Coroa de fiscalizar a produção e cobrar o quinto.\n\nParte da população e das elites mineradoras enxergava essas medidas como uma ameaça aos interesses locais."
+            },
+            {
+              "type": "heading",
+              "text": "A noite em que a revolta começou"
+            },
+            {
+              "type": "text",
+              "text": "Segundo a Secretaria Municipal de Meio Ambiente de Ouro Preto, o estopim do movimento ocorreu na noite de 28 de junho de 1720.\n\nMais de dois mil rebeldes teriam marchado em direção à Vila do Carmo, atual Mariana, onde estava o governador.\n\nOs revoltosos pressionaram o Conde de Assumar e apresentaram suas exigências.\n\nNaquele momento, o governador aceitou parte das reivindicações.\n\nMas a crise não estava encerrada.\n\nDepois de reorganizar suas forças, Assumar passou à repressão."
+            },
+            {
+              "type": "heading",
+              "text": "A volta do governador"
+            },
+            {
+              "type": "text",
+              "text": "A fonte municipal registra que, em 16 de julho de 1720, o Conde de Assumar chegou a Vila Rica chefiando cerca de 1.500 homens.\n\nA repressão atingiu os participantes e os principais líderes do movimento.\n\nPascoal da Silva Guimarães, associado ao assentamento minerador da serra e apontado por interpretações historiográficas como uma das principais lideranças da sedição, teve suas propriedades atingidas.\n\nA Prefeitura de Ouro Preto descreve o episódio de forma direta: o assentamento foi destruído por meio de um grande incêndio.\n\nOutra página oficial do município afirma que foram executadas a demolição e a queima das casas de Pascoal da Silva Guimarães e de participantes da Sedição de 1720.\n\nFoi depois desse episódio que o lugar passou a ser conhecido como Morro da Queimada."
+            },
+            {
+              "type": "heading",
+              "text": "Felipe dos Santos"
+            },
+            {
+              "type": "text",
+              "text": "Apesar de o episódio ser popularmente chamado de Revolta de Felipe dos Santos, o movimento envolveu várias lideranças e diferentes grupos sociais.\n\nFelipe dos Santos tornou-se o personagem mais conhecido da revolta e foi executado após a repressão.\n\nOutras lideranças foram presas, enviadas ao Rio de Janeiro e posteriormente exiladas ou processadas.\n\nA historiografia contemporânea também chama atenção para o papel de Pascoal da Silva Guimarães, proprietário e minerador de grande influência, cuja área de ocupação ficou diretamente associada ao incêndio.\n\nPor isso, reduzir toda a revolta à figura de um único líder esconde a complexidade do conflito."
+            },
+            {
+              "type": "heading",
+              "text": "O fogo não apagou o lugar"
+            },
+            {
+              "type": "text",
+              "text": "Há um detalhe importante.\n\nO incêndio de 1720 não significou que toda ocupação humana do Morro da Queimada desapareceu imediatamente.\n\nA própria Prefeitura registra que a região permaneceu ocupada nos séculos XVIII e XIX.\n\nPor isso, o sítio atual reúne vestígios de diferentes momentos.\n\nEntre as estruturas identificadas estão:\n\n- ruínas de casas;\n- antigas áreas de mineração;\n- reservatórios de água;\n- currais e muros de pedra;\n- caminhos e estruturas ligadas à exploração aurífera;\n- vestígios de um antigo moinho de vento.\n\nO Morro da Queimada é, portanto, mais do que o cenário de uma revolta.\n\nEle também preserva evidências materiais das primeiras formas de ocupação urbana e mineração na formação de Vila Rica."
+            },
+            {
+              "type": "heading",
+              "text": "Um sítio arqueológico acima da cidade"
+            },
+            {
+              "type": "text",
+              "text": "Hoje, a área integra o Ecomuseu Morro da Queimada e é reconhecida como sítio arqueológico.\n\nA Prefeitura destaca sua importância como testemunho das primeiras tipologias urbanas de Minas Gerais e da corrida do ouro no início do século XVIII.\n\nEm 2008, o município criou o Parque Arqueológico Municipal do Morro da Queimada, com o objetivo de preservar a região e seus vestígios.\n\nIsso muda completamente a experiência de visitar o lugar.\n\nNão estamos apenas diante de um ponto de onde se vê Ouro Preto.\n\nEstamos caminhando sobre um espaço que foi minerado, habitado, disputado politicamente, incendiado e novamente ocupado."
+            },
+            {
+              "type": "heading",
+              "text": "O que ainda pode ser visto"
+            },
+            {
+              "type": "text",
+              "text": "O aspecto mais forte desta história é que ela deixou vestígios físicos.\n\nQuase três séculos depois, ainda existem ruínas no alto da serra.\n\nAlgumas são restos de residências.\n\nOutras estão relacionadas aos serviços de mineração.\n\nHá estruturas de pedra, caminhos e reservatórios que ajudam a reconstruir a escala do antigo assentamento.\n\nA história não termina no passado.\n\nExiste algo que ainda pode ser visto hoje.\n\nAs ruínas são o elo material entre o incêndio de 1720 e a cidade atual."
+            },
+            {
+              "type": "heading",
+              "text": "Uma distinção histórica"
+            },
+            {
+              "type": "text",
+              "text": "Assentamento, arraial ou propriedades no Morro do Pascoal Silva/Ouro Podre são termos mais precisos para este episódio do que bairro. As fontes oficiais registram a demolição e o incêndio de casas de Pascoal da Silva Guimarães e de participantes da sedição, e também descrevem a destruição do assentamento que deu origem ao atual Morro da Queimada."
+            },
+            {
+              "type": "heading",
+              "text": "O que está documentado"
+            },
+            {
+              "type": "text",
+              "text": "- A região já era ocupada e explorada por mineradores no início do século XVIII.\n- Era conhecida como Morro do Ouro Podre e Morro do Pascoal Silva.\n- A Sedição de Vila Rica ocorreu em 1720.\n- O Conde de Assumar reprimiu o movimento.\n- Casas e propriedades ligadas a Pascoal da Silva Guimarães e participantes da revolta foram demolidas e incendiadas.\n- O episódio deu origem ao nome Morro da Queimada.\n- Felipe dos Santos foi executado após a repressão.\n- A região continuou ocupada nos séculos XVIII e XIX.\n- Ruínas de residências e estruturas de mineração permanecem no local.\n- O Morro da Queimada é hoje um sítio arqueológico protegido pelo município."
+            },
+            {
+              "type": "heading",
+              "text": "O que exige cuidado"
+            },
+            {
+              "type": "text",
+              "text": "- Não tratar Felipe dos Santos como único líder da revolta.\n- Não resumir a revolta apenas como reação a “aumento de impostos”.\n- Não afirmar que absolutamente toda a região foi destruída e abandonada para sempre em 1720.\n- Não atribuir cada ruína atualmente visível diretamente ao incêndio sem identificação arqueológica específica.\n- O termo “bairro” funciona no conteúdo social; “assentamento” ou “arraial” é mais adequado no texto histórico."
+            },
+            {
+              "type": "heading",
+              "text": "Linha do tempo"
+            },
+            {
+              "type": "text",
+              "text": "Início do século XVIII — A região da Serra de Ouro Preto se consolida como importante área de mineração e ocupação.\n\nDécada de 1710–1720 — Crescem as tensões políticas e fiscais entre grupos locais e o governo colonial.\n\n28 de junho de 1720 — A fonte municipal situa nessa noite o estopim da Sedição de Vila Rica.\n\nJunho–julho de 1720 — Revoltosos pressionam o governador na Vila do Carmo.\n\n16 de julho de 1720 — Segundo a Prefeitura, Conde de Assumar retorna a Vila Rica com força militar e inicia a repressão.\n\n1720 — Propriedades e casas são demolidas e incendiadas. A região passa a ser conhecida como Morro da Queimada.\n\nSéculos XVIII e XIX — A ocupação da área continua.\n\n2008 — É criado o Parque Arqueológico Municipal do Morro da Queimada.\n\n2012 — A página municipal de Meio Ambiente registra a criação do Monumento Natural Municipal Arqueológico. Trata-se de uma proteção distinta da criação do parque em 2008."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "Morro da Queimada: o assentamento de Ouro Preto incendiado em 1720",
+          "seoDescription": "Conheça a história documentada do Morro da Queimada, a Sedição de Vila Rica de 1720 e os vestígios arqueológicos que permanecem acima de Ouro Preto.",
+          "shortScript": ""
+        },
+        "en": {
+          "slug": "the-hill-the-governor-ordered-burned",
+          "title": "The Hill the Governor Ordered Burned",
+          "hook": "The governor ordered a mining settlement burned. Its ruins remain above Ouro Preto.",
+          "summary": "In 1720, the repression of the Vila Rica Sedition reached the settlement now known as Morro da Queimada. The Count of Assumar ordered houses and properties demolished and burned. Remains of homes, mines and reservoirs survive on the hillside.",
+          "editorialNote": "The suppression of the revolt and the burning are documented in municipal sources. Surviving structures belong to different periods and cannot all be attributed to the fire of 1720. The account follows the Environment Department’s date of 28 June for the outbreak; another municipal article gives 25 June. The park’s creation in 2008 and the monument designation in 2012 are distinct. The map is an approximate site reference, not a surveyed entrance or individual ruin. The photograph shows Ouro Preto, not these ruins.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Anyone looking up towards the Serra de Ouro Preto today will find ruins scattered among paths, vegetation and old mining structures.\n\nThe place's name already tells part of its story: Morro da Queimada, the Burned Hill.\n\nIt did not acquire that name because of an accidental fire. In 1720, during one of Vila Rica's first major political crises, Governor D. Pedro de Almeida Portugal, the Count of Assumar, ordered the suppression of a movement known as the Vila Rica Sedition or Felipe dos Santos Revolt.\n\nThe government's response directly affected the mining settlement on the hillside. Houses were demolished. Properties were burned. The memory of the fire became part of the place's name."
+            },
+            {
+              "type": "heading",
+              "text": "Before the fire"
+            },
+            {
+              "type": "text",
+              "text": "Morro da Queimada was important even before the revolt. Settlement began in the first decade of the eighteenth century, as mining expanded towards higher areas of the Serra de Ouro Preto.\n\nAs gold extraction moved beyond riverbeds, mining grounds, paths, lanes, homes, shops and places of worship appeared. What we now see as an archaeological site was a living settlement closely connected to mining.\n\nThe area had several names, including Morro do Ouro Podre and Morro do Pascoal Silva. The latter referred to Pascoal da Silva Guimarães, a wealthy, influential man connected to mining and one of the central figures in the crisis of 1720."
+            },
+            {
+              "type": "heading",
+              "text": "What was happening in Vila Rica"
+            },
+            {
+              "type": "text",
+              "text": "The revolt did not arise from a single cause. In the early 1720s, tensions ran high between influential groups in the mining region and the colonial government.\n\nPoints of conflict included the Crown's fiscal policy, the introduction of royal gold foundries, the expulsion of certain clergy from mining areas, disputes over local administration and the reorganisation of military forces.\n\nThe foundries were particularly sensitive. Gold would have to be melted and officially controlled before circulating, increasing the Crown's ability to monitor production and collect the quinto, its one-fifth tax. Parts of the population and the mining elites regarded these measures as threats to local interests."
+            },
+            {
+              "type": "heading",
+              "text": "The night the revolt began"
+            },
+            {
+              "type": "text",
+              "text": "According to Ouro Preto's Municipal Environment Department, the movement's outbreak occurred on the night of 28 June 1720. More than two thousand rebels reportedly marched towards Vila do Carmo, now Mariana, where the governor was staying.\n\nThe rebels put pressure on the Count of Assumar and presented their demands. At that moment, he accepted some of them. But the crisis was not over. After reorganising his forces, Assumar began the repression."
+            },
+            {
+              "type": "heading",
+              "text": "The governor's return"
+            },
+            {
+              "type": "text",
+              "text": "The municipal source records that on 16 July 1720, the Count of Assumar reached Vila Rica at the head of around 1,500 men. The repression targeted participants and the movement's principal leaders.\n\nPascoal da Silva Guimarães, associated with the hillside mining settlement and identified by historical interpretations as a leading figure in the sedition, saw his properties targeted.\n\nOuro Preto's municipal government describes the episode directly: the settlement was destroyed by a large fire. Another official municipal page records the demolition and burning of houses belonging to Pascoal da Silva Guimarães and participants in the Sedition of 1720.\n\nAfter this episode, the place became known as Morro da Queimada."
+            },
+            {
+              "type": "heading",
+              "text": "Felipe dos Santos"
+            },
+            {
+              "type": "text",
+              "text": "Although popularly named after Felipe dos Santos, the movement involved several leaders and different social groups. Felipe became its best-known figure and was executed following the repression.\n\nOther leaders were imprisoned, sent to Rio de Janeiro and subsequently exiled or prosecuted. Contemporary historical writing also draws attention to Pascoal da Silva Guimarães, an influential landowner and miner whose settlement was directly associated with the fire.\n\nReducing the entire revolt to one leader therefore obscures the conflict's complexity."
+            },
+            {
+              "type": "heading",
+              "text": "The fire did not erase the place"
+            },
+            {
+              "type": "text",
+              "text": "There is an important detail: the fire of 1720 did not mean that all human occupation on Morro da Queimada immediately vanished. The municipal government records continued occupation throughout the eighteenth and nineteenth centuries.\n\nThe present-day site therefore brings together remains from different periods. Identified structures include ruined houses, old mining areas, water reservoirs, stone walls and enclosures, paths and structures associated with gold extraction, and the remains of an old windmill.\n\nMorro da Queimada is more than the setting of a revolt. It preserves material evidence of early urban settlement and mining during the formation of Vila Rica."
+            },
+            {
+              "type": "heading",
+              "text": "An archaeological site above the city"
+            },
+            {
+              "type": "text",
+              "text": "Today the area forms part of the Morro da Queimada Ecomuseum and is recognised as an archaeological site. The municipal government highlights its importance as evidence of early urban forms in Minas Gerais and the gold rush at the beginning of the eighteenth century.\n\nIn 2008, the municipality created the Morro da Queimada Municipal Archaeological Park to preserve the area and its remains.\n\nThis changes the experience of visiting. We are not simply looking at a viewpoint over Ouro Preto. We are walking through a place that was mined, inhabited, politically contested, burned and inhabited again."
+            },
+            {
+              "type": "heading",
+              "text": "What can still be seen"
+            },
+            {
+              "type": "text",
+              "text": "The strongest aspect of this story is that it left physical traces. Nearly three centuries later, ruins remain high on the hillside. Some are the remains of homes; others relate to mining work. Stone structures, paths and reservoirs help us understand the scale of the old settlement.\n\nThe story does not end in the past. There is something that can still be seen today. The ruins are the material link between the fire of 1720 and the present-day city, although each structure needs its own archaeological identification before being attributed to that fire."
+            },
+            {
+              "type": "heading",
+              "text": "A historical distinction"
+            },
+            {
+              "type": "text",
+              "text": "Settlement, hamlet or properties on Morro do Pascoal Silva/Ouro Podre are more precise terms than neighbourhood for this historical episode. Official sources record the demolition and burning of houses belonging to Pascoal da Silva Guimarães and participants in the sedition, and also describe the destruction of the settlement.\n\nThe settlement that gave rise to today's Morro da Queimada is therefore the subject of this account."
+            },
+            {
+              "type": "heading",
+              "text": "What is documented"
+            },
+            {
+              "type": "text",
+              "text": "The area was inhabited and worked by miners in the early eighteenth century. It was known as Morro do Ouro Podre and Morro do Pascoal Silva. The Vila Rica Sedition took place in 1720 and was suppressed by the Count of Assumar. Houses and properties connected to Pascoal da Silva Guimarães and participants in the revolt were demolished and burned. The episode gave rise to the name Morro da Queimada. Felipe dos Santos was executed after the repression. Occupation continued in the eighteenth and nineteenth centuries. Ruins of homes and mining structures remain. The hill is now an archaeological site under municipal protection."
+            },
+            {
+              "type": "heading",
+              "text": "What requires care"
+            },
+            {
+              "type": "text",
+              "text": "Felipe dos Santos was not the movement's only leader. The revolt cannot be reduced to a reaction to higher taxes. It is incorrect to claim that the entire area was destroyed and permanently abandoned in 1720. Every visible ruin cannot be directly attributed to the fire without specific archaeological identification. Settlement or hamlet is more historically precise than neighbourhood."
+            },
+            {
+              "type": "heading",
+              "text": "Timeline"
+            },
+            {
+              "type": "text",
+              "text": "Early eighteenth century — The Serra de Ouro Preto becomes an important area of mining and settlement.\n\n1710s–1720 — Political and fiscal tensions grow between local groups and the colonial government.\n\n28 June 1720 — The municipal environment source places the outbreak of the sedition on this night.\n\nJune–July 1720 — Rebels pressure the governor in Vila do Carmo.\n\n16 July 1720 — According to the municipal source, Assumar returns to Vila Rica with a military force and begins the repression.\n\n1720 — Houses and properties are demolished and burned. The area becomes known as Morro da Queimada.\n\nEighteenth and nineteenth centuries — Occupation continues.\n\n2008 — Creation of the Municipal Archaeological Park, under Municipal Law 465 of 29 December 2008.\n\n2012 — The municipal environment page records the creation of the Municipal Archaeological Natural Monument. This is a separate protection designation from the park's creation in 2008."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "Morro da Queimada: Ouro Preto’s settlement burned in 1720",
+          "seoDescription": "Discover the documented history of Morro da Queimada, the colonial revolt of 1720 and the archaeological remains above Ouro Preto.",
+          "shortScript": ""
+        }
+      }
+    }
+  ]
+}

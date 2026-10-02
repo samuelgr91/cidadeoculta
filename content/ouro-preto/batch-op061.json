@@ -1,0 +1,231 @@
+{
+  "id": "ouro-preto-op061-v1",
+  "locations": [
+    {
+      "id": "igreja-bom-jesus-matozinhos",
+      "cityId": "ouro-preto",
+      "name": "Igreja Bom Jesus de Matozinhos, São Miguel e Almas",
+      "lat": -20.38219775,
+      "lng": -43.51618978,
+      "address": "Rua Alvarenga, s/n · Cabeças · Ouro Preto",
+      "precision": "verified"
+    }
+  ],
+  "stories": [
+    {
+      "editorialCode": "OP-061",
+      "id": "op-061",
+      "cityId": "ouro-preto",
+      "locationId": "igreja-bom-jesus-matozinhos",
+      "truthStatus": "documented",
+      "accessLevel": "premium",
+      "depth": "deep_file",
+      "category": "Descoberta recente e patrimônio",
+      "estimatedSeconds": 560,
+      "image": "/media/stories/op-061/source-4.jpg",
+      "imageCredit": "Marília Mesquita / Prefeitura de Ouro Preto · registro oficial da descoberta em 18/06/2025.",
+      "mapImage": "/media/stories/op-061/source-1.jpg",
+      "mapImageCredit": "Marília Mesquita / Prefeitura de Ouro Preto · registro oficial da descoberta em 18/06/2025.",
+      "sources": [
+        {
+          "title": "Arqueólogos descobrem piso original da parte externa da Igreja Bom Jesus de Matozinhos",
+          "url": "https://www.ouropreto.mg.gov.br/noticia/4897",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Fonte principal da descoberta: posição externa na lateral direita, lajes cobertas por concreto, visita de 18/06/2025, identificação arqueológica, preservação e andamento da restauração. Consultada em 30/09/2026."
+        },
+        {
+          "title": "Igreja Bom Jesus de Matosinhos e São Miguel e Almas",
+          "url": "https://www.ouropreto.mg.gov.br/turismo/atrativo-item/594",
+          "institution": "Secretaria Municipal de Cultura e Turismo de Ouro Preto",
+          "note": "Construção entre 1771 e 1793, devoções, atribuições artísticas e situação de fechamento para restauração. Consultada em 30/09/2026."
+        },
+        {
+          "title": "Patrimônio Cultural: andamento das obras e restaurações históricas",
+          "url": "https://www.ouropreto.mg.gov.br/noticia/5756",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Atualização de 02/09/2026: primeira etapa civil em fase final, previsão de novembro de 2026 e continuidade da restauração dos elementos artísticos. Consultada em 30/09/2026."
+        }
+      ],
+      "localeContent": {
+        "pt-br": {
+          "slug": "piso-original-escondido-igreja-matozinhos",
+          "title": "O piso de quase 250 anos escondido sob concreto",
+          "hook": "Durante uma restauração, retiraram o concreto ao lado desta igreja. Embaixo dele reapareceu o piso do século XVIII.",
+          "summary": "Em junho de 2025, a retirada de uma camada de concreto na lateral direita da Igreja Bom Jesus de Matozinhos revelou antigas lajes identificadas como o piso original do período de fundação do templo. A descoberta será preservada e mantida aparente.",
+          "editorialNote": "A descoberta, a posição externa do piso, a cobertura por concreto e a identificação das lajes foram divulgadas oficialmente pela Prefeitura de Ouro Preto. O mapa marca o edifício, não cada laje. As fontes não sustentam túmulos, tesouros, passagens ou a afirmação de que cada pedra permanece exatamente na mesma posição desde o século XVIII. Fotografias oficiais de Marília Mesquita/PMOP.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Durante anos, quem passava pela lateral da Igreja Bom Jesus de Matozinhos, São Miguel e Almas via apenas um piso de concreto.\n\nNada naquele trecho indicava claramente que havia algo muito mais antigo escondido logo abaixo.\n\nIsso mudou em 18 de junho de 2025.\n\nA igreja, localizada no bairro Cabeças, estava passando por uma grande restauração quando a equipe começou a retirar o concreto existente na lateral direita do templo.\n\nDebaixo da camada mais recente apareceram antigas lajes de pedra.\n\nE elas não eram apenas restos de uma reforma anterior.\n\nSegundo a arqueóloga Maíra Mendes, em explicação divulgada pela Prefeitura de Ouro Preto, tratava-se do piso original, do tempo de fundação da igreja.\n\nUma parte da história do edifício havia permanecido literalmente escondida sob os pés de quem passava por ali."
+            },
+            {
+              "type": "heading",
+              "text": "Uma igreja do século XVIII"
+            },
+            {
+              "type": "text",
+              "text": "A Igreja Bom Jesus de Matozinhos e São Miguel e Almas foi construída entre 1771 e 1793. Ela é dedicada a diferentes devoções e faz parte do conjunto religioso histórico de Ouro Preto.\n\nA fachada também guarda um detalhe conhecido: a escultura de São Miguel Arcanjo sobre a portada é atribuída a Aleijadinho, embora a própria Prefeitura ressalte que faltam fontes que comprovem definitivamente essa autoria. No interior, pinturas nos corredores laterais são atribuídas ao Mestre Ataíde.\n\nMas, em 2025, não foi uma escultura ou uma pintura que chamou a atenção dos arqueólogos.\n\nFoi o chão."
+            },
+            {
+              "type": "heading",
+              "text": "O que estava escondido"
+            },
+            {
+              "type": "text",
+              "text": "Em algum momento posterior à construção original, aquelas antigas lajes externas foram recobertas por concreto.\n\nA camada moderna ocultou o piso antigo.\n\nQuando o concreto começou a ser removido durante a restauração, as pedras reapareceram.\n\nA Prefeitura descreveu a descoberta como o piso original da lateral direita do templo e informou que as lajes pertencem ao período de fundação da igreja.\n\nIsso significa que aquelas pedras ajudam a revelar como era o entorno imediato da igreja antes das intervenções feitas ao longo dos séculos.\n\nNão estamos falando de uma reconstrução moderna tentando imitar o passado.\n\nSão elementos antigos que permaneceram no próprio lugar."
+            },
+            {
+              "type": "heading",
+              "text": "E decidiram não esconder novamente"
+            },
+            {
+              "type": "text",
+              "text": "Depois da descoberta, a decisão foi preservar as peças.\n\nSegundo a arqueóloga Maíra Mendes, as pedras antigas seriam incorporadas à revitalização externa e permaneceriam aparentes. Onde fosse necessário completar o piso, seriam utilizadas novas lajes do mesmo tipo, conhecidas localmente como pedra Ouro Preto.\n\nEsse detalhe transforma a descoberta em algo particularmente interessante.\n\nO objetivo não era retirar aquelas pedras e levá-las para um museu.\n\nEra permitir que continuassem fazendo parte do próprio lugar onde permaneceram durante séculos."
+            },
+            {
+              "type": "heading",
+              "text": "Por que estavam mexendo na igreja?"
+            },
+            {
+              "type": "text",
+              "text": "A descoberta aconteceu durante uma restauração muito maior.\n\nA Igreja Bom Jesus de Matozinhos permaneceu fechada por cerca de uma década antes do início das obras. A intervenção começou no segundo semestre de 2024, financiada com recursos do Novo PAC e do caixa municipal, e envolveu restauração estrutural, telhado, instalações, proteção contra incêndios e revitalização da área externa.\n\nQuando o piso foi encontrado, em junho de 2025, a Prefeitura informou que a restauração estava aproximadamente 50% concluída.\n\nEm setembro de 2026, a atualização mais recente do município informou que a primeira etapa civil caminhava para conclusão em novembro daquele ano. A igreja, porém, permaneceria fechada para a sequência das etapas voltadas aos elementos artísticos."
+            },
+            {
+              "type": "heading",
+              "text": "O que essa descoberta revela"
+            },
+            {
+              "type": "text",
+              "text": "À primeira vista, pode parecer apenas um piso antigo.\n\nMas descobertas assim são importantes porque mostram algo que fotografias recentes não conseguem mostrar: como os espaços eram construídos e usados antes das reformas posteriores.\n\nAs pedras também ajudam arqueólogos e restauradores a diferenciar o que pertence ao edifício antigo do que foi acrescentado depois.\n\nNesse caso, a intervenção moderna fez algo curioso.\n\nPara restaurar o templo, primeiro foi necessário retirar uma camada mais nova e redescobrir uma parte mais antiga."
+            },
+            {
+              "type": "heading",
+              "text": "A história estava debaixo dos pés"
+            },
+            {
+              "type": "text",
+              "text": "O mais interessante talvez seja justamente a simplicidade do achado.\n\nNão foi encontrada uma sala secreta.\n\nNão apareceu um tesouro.\n\nNão surgiu um túnel desconhecido.\n\nEra apenas um piso.\n\nMas aquele piso havia atravessado aproximadamente dois séculos, sido coberto por concreto e permanecido ali até que uma obra recente voltasse a revelá-lo.\n\nDurante anos, moradores e visitantes passaram por aquele ponto sem perceber que, poucos centímetros abaixo, sobreviviam pedras do período inicial da igreja.\n\nÉ um bom exemplo de como Ouro Preto ainda consegue produzir descobertas mesmo em edifícios estudados há décadas.\n\nPorque, às vezes, o que a cidade esconde não está atrás de uma parede.\n\nEstá simplesmente embaixo dela."
+            },
+            {
+              "type": "heading",
+              "text": "O que está documentado"
+            },
+            {
+              "type": "text",
+              "text": "- A descoberta ocorreu durante a restauração da Igreja Bom Jesus de Matozinhos, São Miguel e Almas, em junho de 2025.\n- O piso foi encontrado na lateral direita externa do templo.\n- As lajes antigas estavam cobertas por concreto.\n- A arqueóloga responsável as identificou como pertencentes ao período de fundação da igreja.\n- A igreja foi construída entre 1771 e 1793.\n- As pedras antigas seriam preservadas e mantidas aparentes na revitalização externa.\n- A igreja passa por um processo de restauração iniciado em 2024."
+            },
+            {
+              "type": "heading",
+              "text": "O que não devemos afirmar"
+            },
+            {
+              "type": "text",
+              "text": "Não há base nas fontes consultadas para dizer que:\n\n- o piso foi encontrado dentro da igreja;\n- existe algo enterrado abaixo das lajes;\n- as pedras escondiam túmulos, tesouros ou passagens;\n- ninguém sabia da existência desse piso antes da intervenção;\n- cada pedra permaneceu exatamente na mesma posição desde o século XVIII.\n\nA história já é interessante sem acrescentar mistério artificial."
+            },
+            {
+              "type": "heading",
+              "text": "Linha do tempo"
+            },
+            {
+              "type": "text",
+              "text": "1771–1793 — Construção da Igreja Bom Jesus de Matozinhos e São Miguel e Almas.\n\nDécadas posteriores — O edifício passa por diferentes transformações e intervenções.\n\nCerca de 2014 — A igreja fica fechada por aproximadamente dez anos antes da restauração atual.\n\nSegundo semestre de 2024 — Começam as obras da primeira etapa de restauração.\n\n18 de junho de 2025 — A retirada de concreto revela as antigas lajes na lateral direita.\n\n23 de junho de 2025 — A Prefeitura anuncia publicamente a descoberta.\n\nSetembro de 2026 — A primeira etapa da obra está em fase final; novas etapas de restauração ainda estão previstas."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "Piso original é descoberto durante restauração de igreja em Ouro Preto",
+          "seoDescription": "Em 2025, restauradores removeram concreto ao lado da Igreja Bom Jesus de Matozinhos e encontraram antigas lajes do período de fundação do templo.",
+          "shortScript": ""
+        },
+        "en": {
+          "slug": "original-floor-hidden-beneath-concrete-matozinhos-church",
+          "title": "The nearly 250-year-old floor hidden beneath concrete",
+          "hook": "During restoration, concrete beside this church was removed. Beneath it, an eighteenth-century floor reappeared.",
+          "summary": "In June 2025, workers removing concrete along the right side of the Church of Bom Jesus de Matozinhos uncovered old stone slabs identified as the original floor from the church’s founding period. The find is to be preserved and left visible.",
+          "editorialNote": "The discovery, its exterior position, the concrete covering and the identification of the slabs were officially reported by the Ouro Preto municipal government. The map marks the church building, not each slab. The sources do not support claims about graves, treasure, passages or every stone remaining in exactly the same position since the eighteenth century. Official photographs by Marília Mesquita/PMOP.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "For years, anyone walking along the side of the Church of Bom Jesus de Matozinhos, São Miguel e Almas saw only a concrete surface.\n\nNothing there clearly suggested that something much older survived immediately below it.\n\nThat changed on 18 June 2025.\n\nThe church, in Ouro Preto's Cabeças neighbourhood, was undergoing a major restoration when workers began removing concrete from the right-hand exterior side of the building.\n\nOld stone slabs appeared beneath the newer layer.\n\nThey were not merely remains from an earlier modern renovation.\n\nAccording to archaeologist Maíra Mendes, in an explanation published by the Ouro Preto municipal government, this was the original floor from the period when the church was founded.\n\nPart of the building's history had remained literally hidden beneath the feet of passers-by."
+            },
+            {
+              "type": "heading",
+              "text": "An eighteenth-century church"
+            },
+            {
+              "type": "text",
+              "text": "The Church of Bom Jesus de Matozinhos and São Miguel e Almas was built between 1771 and 1793. It is dedicated to several devotions and belongs to Ouro Preto's historic religious ensemble.\n\nIts façade also preserves a well-known detail: the sculpture of Saint Michael the Archangel above the doorway is attributed to Aleijadinho, although the municipal government notes that there are no sources that conclusively prove the attribution. Inside, paintings in the side corridors are attributed to Mestre Ataíde.\n\nIn 2025, however, it was neither a sculpture nor a painting that attracted the archaeologists' attention.\n\nIt was the ground."
+            },
+            {
+              "type": "heading",
+              "text": "What was hidden"
+            },
+            {
+              "type": "text",
+              "text": "At some point after the original construction, the old exterior slabs were covered with concrete.\n\nThe modern layer concealed the earlier floor.\n\nWhen the concrete was removed during restoration, the stones reappeared.\n\nThe municipal government described the find as the original floor along the right side of the church and reported that the slabs date to the building's founding period.\n\nThe stones therefore help reveal what the immediate surroundings of the church looked like before later interventions changed the site.\n\nThis is not a modern reconstruction made to resemble the past.\n\nThese are old elements that survived in their original setting."
+            },
+            {
+              "type": "heading",
+              "text": "They chose not to hide it again"
+            },
+            {
+              "type": "text",
+              "text": "After the discovery, the decision was made to preserve the pieces.\n\nAccording to archaeologist Maíra Mendes, the historic stones would be incorporated into the revitalised exterior and left visible. Where the floor needed to be completed, new slabs of the same local type, known as Ouro Preto stone, would be added.\n\nThat decision makes the find particularly interesting.\n\nThe aim was not to remove the stones and carry them to a museum.\n\nIt was to let them remain part of the place where they had survived for centuries."
+            },
+            {
+              "type": "heading",
+              "text": "Why was the church under construction?"
+            },
+            {
+              "type": "text",
+              "text": "The discovery formed part of a much larger restoration.\n\nThe church had been closed for about a decade before the work began. The intervention started in the second half of 2024 with funding from Brazil's New PAC programme and municipal resources. It included structural work, roof restoration, new installations, fire protection and improvements to the exterior.\n\nWhen the floor was found in June 2025, the municipal government reported that the restoration was approximately fifty per cent complete.\n\nIn September 2026, the city's latest update said that the first civil-works phase was approaching completion in November. The church would remain closed for the following stages devoted to its integrated artistic elements."
+            },
+            {
+              "type": "heading",
+              "text": "What the discovery reveals"
+            },
+            {
+              "type": "text",
+              "text": "At first sight, it may look like nothing more than an old floor.\n\nFinds like this matter because they show something recent photographs cannot: how a place was built and used before later alterations.\n\nThe stones also help archaeologists and conservators distinguish the historic building fabric from later additions.\n\nIn this case, the modern intervention produced an intriguing reversal.\n\nRestoring the church required removing a newer layer in order to rediscover an older one."
+            },
+            {
+              "type": "heading",
+              "text": "History was beneath their feet"
+            },
+            {
+              "type": "text",
+              "text": "Perhaps the most striking part of the discovery is its simplicity.\n\nNo secret room was found.\n\nNo treasure appeared.\n\nNo unknown tunnel emerged.\n\nIt was only a floor.\n\nYet that floor had survived for roughly two centuries, been covered in concrete and remained in place until a recent restoration revealed it again.\n\nFor years, residents and visitors passed the spot without realising that stones from the church's earliest period survived only a few centimetres below.\n\nIt is a good example of how Ouro Preto can still yield discoveries even in buildings that have been studied for decades.\n\nSometimes what the city hides is not behind a wall.\n\nIt is simply underneath it."
+            },
+            {
+              "type": "heading",
+              "text": "What is documented"
+            },
+            {
+              "type": "text",
+              "text": "- The floor was discovered during the restoration of the Church of Bom Jesus de Matozinhos, São Miguel e Almas in June 2025.\n- It was found outside, along the right side of the church.\n- The old stone slabs had been covered by concrete.\n- The archaeologist identified them as belonging to the church's founding period.\n- The church was built between 1771 and 1793.\n- The old stones were to be preserved and kept visible in the restored exterior.\n- The current restoration began in 2024."
+            },
+            {
+              "type": "heading",
+              "text": "What should not be claimed"
+            },
+            {
+              "type": "text",
+              "text": "The sources consulted do not support claims that:\n\n- the floor was found inside the church;\n- something lies buried beneath the slabs;\n- the stones concealed graves, treasure or passages;\n- no one knew of the floor before the intervention;\n- every stone has occupied exactly the same position since the eighteenth century.\n\nThe documented discovery is compelling without invented mystery."
+            },
+            {
+              "type": "heading",
+              "text": "Timeline"
+            },
+            {
+              "type": "text",
+              "text": "1771–1793 — Construction of the Church of Bom Jesus de Matozinhos and São Miguel e Almas.\n\nLater decades — The building undergoes successive alterations and interventions.\n\nAround 2014 — The church closes for roughly ten years before the current restoration.\n\nSecond half of 2024 — Work begins on the first restoration phase.\n\n18 June 2025 — Removing the concrete reveals the old slabs along the right side.\n\n23 June 2025 — The municipal government publicly announces the discovery.\n\nSeptember 2026 — The first phase is approaching completion, with further restoration stages still planned."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "Original floor discovered during restoration of an Ouro Preto church",
+          "seoDescription": "In 2025, workers removed concrete beside the Church of Bom Jesus de Matozinhos and uncovered stone slabs from the building’s founding period.",
+          "shortScript": ""
+        }
+      }
+    }
+  ]
+}

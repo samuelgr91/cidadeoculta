@@ -1,0 +1,7 @@
+/* MapLibre adds `.maplibregl-map` after mount; keep the live map in its shell. */
+.map-surface > .map-canvas {
+  position: absolute !important;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}

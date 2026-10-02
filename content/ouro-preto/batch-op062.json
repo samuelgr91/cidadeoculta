@@ -1,0 +1,231 @@
+{
+  "id": "ouro-preto-op062-v1",
+  "locations": [
+    {
+      "id": "casa-contos",
+      "cityId": "ouro-preto",
+      "name": "Museu Casa dos Contos",
+      "lat": -20.38432,
+      "lng": -43.50599,
+      "address": "Rua São José, 12 · Centro · Ouro Preto",
+      "precision": "verified"
+    }
+  ],
+  "stories": [
+    {
+      "editorialCode": "OP-062",
+      "id": "op-062",
+      "cityId": "ouro-preto",
+      "locationId": "casa-contos",
+      "truthStatus": "documented",
+      "accessLevel": "premium",
+      "depth": "deep_file",
+      "category": "Descoberta em restauração",
+      "estimatedSeconds": 520,
+      "image": "/media/stories/op-062/casa-dos-contos.webp",
+      "imageCredit": "Halley Pacheco de Oliveira · CC BY-SA 4.0 · Wikimedia Commons. Fotografia atual; recorte editorial.",
+      "mapImage": "/media/landing/casa-dos-contos-evening.webp",
+      "mapImageCredit": "Reconstrução visual por IA · Cidade Oculta",
+      "sources": [
+        {
+          "title": "Museu Casa dos Contos",
+          "url": "https://www.ouropreto.mg.gov.br/turismo/atrativo-item/571",
+          "institution": "Secretaria Municipal de Cultura e Turismo de Ouro Preto",
+          "note": "Fonte principal da descoberta: construção, usos históricos, restauração, pinturas sob forros e paredes, detalhes arquitetônicos recuperados, tombamento, visitação e endereço. Consultada em 02/10/2026."
+        },
+        {
+          "title": "Casa dos Contos",
+          "url": "https://bndigital.bn.gov.br/dossies/rede-da-memoria-virtual-brasileira/administracao/casa-dos-contos/",
+          "institution": "Fundação Biblioteca Nacional — BNDigital",
+          "note": "Contexto sobre João Rodrigues de Macedo, a administração fazendária, a Inconfidência e o acervo documental reunido no edifício. Consultada em 02/10/2026."
+        },
+        {
+          "title": "Casa dos Contos.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Casa_dos_Contos.jpg",
+          "institution": "Wikimedia Commons",
+          "note": "Fotografia atual da fachada por Halley Pacheco de Oliveira, licenciada sob CC BY-SA 4.0; coordenadas da câmera próximas ao edifício. Consultada em 02/10/2026."
+        }
+      ],
+      "localeContent": {
+        "pt-br": {
+          "slug": "pinturas-escondidas-casa-dos-contos",
+          "title": "As pinturas escondidas da Casa dos Contos",
+          "hook": "Durante uma restauração completa, pinturas reapareceram debaixo de forros e em paredes de um dos casarões mais famosos de Ouro Preto.",
+          "summary": "A restauração da Casa dos Contos revelou pinturas sob forros e paredes, além de estruturas e detalhes arquitetônicos antes perdidos. O próprio edifício preservava, em suas camadas, vestígios invisíveis de sua história.",
+          "editorialNote": "A descoberta de algumas pinturas sob forros e em paredes, assim como a recuperação de estruturas e detalhes arquitetônicos, é informada pela Secretaria Municipal de Cultura e Turismo de Ouro Preto. A fonte não identifica todos os cômodos, datas ou autores das pinturas; por isso, esses detalhes não são inferidos. A fotografia mostra a fachada atual da Casa dos Contos.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Quem olha a Casa dos Contos por fora já percebe que não se trata de um prédio comum.\n\nO casarão se impõe sobre a Rua São José com janelas altas, pedra aparente, proporções solenes e a presença de quem atravessou mais de dois séculos no centro de Ouro Preto.\n\nMas uma parte de sua beleza permaneceu invisível por muito tempo.\n\nDurante uma restauração completa, algumas pinturas apareceram debaixo de forros e em paredes. A intervenção também revelou estruturas e detalhes arquitetônicos que haviam se perdido sob transformações posteriores.\n\nO edifício não guardava apenas documentos e memórias.\n\nSuas próprias camadas ainda escondiam parte da história."
+            },
+            {
+              "type": "heading",
+              "text": "Antes da descoberta, uma casa de poder"
+            },
+            {
+              "type": "text",
+              "text": "A Casa dos Contos foi construída entre 1782 e 1784 para servir de residência e Casa dos Contratados de João Rodrigues de Macedo, responsável por contratos de arrecadação de tributos na capitania.\n\nEra uma residência particular de grande prestígio em Vila Rica. A posição social de Macedo e sua ligação com o sistema fiscal ajudam a explicar a monumentalidade do edifício.\n\nEm 1789, durante a repressão à Inconfidência Mineira, o imóvel aquartelou tropas do vice-rei e serviu como prisão nobre de inconfidentes. Entre os presos esteve o poeta Cláudio Manoel da Costa, que morreu no edifício.\n\nA partir de 1792, a casa passou a abrigar a Administração e Contabilidade Pública da Capitania de Minas Gerais. Essa função consolidou o nome pelo qual o prédio é conhecido até hoje.\n\nNo início do século XIX, o conjunto recebeu acréscimos ligados à Casa de Fundição e da Moeda. Ao longo do século XX, também foi ocupado por diferentes órgãos públicos."
+            },
+            {
+              "type": "heading",
+              "text": "O que a restauração encontrou"
+            },
+            {
+              "type": "text",
+              "text": "A fonte oficial da Secretaria Municipal de Cultura e Turismo de Ouro Preto não descreve uma única grande obra isolada.\n\nEla informa que foram encontradas algumas pinturas debaixo de forros e em paredes, além de estruturas e detalhes arquitetônicos anteriormente perdidos.\n\nEssa precisão importa.\n\nNão há base para falar em uma sala secreta, em um mural deliberadamente selado ou em uma obra específica escondida por alguém. O que está documentado é a descoberta de pinturas e elementos arquitetônicos que não estavam mais visíveis antes do restauro.\n\nAinda assim, a revelação muda a forma de olhar para o casarão.\n\nParte da decoração e da organização material de seus ambientes havia sobrevivido sob camadas posteriores. Foi necessário intervir no edifício para que esses vestígios voltassem a aparecer."
+            },
+            {
+              "type": "heading",
+              "text": "Um prédio também pode ser um arquivo"
+            },
+            {
+              "type": "text",
+              "text": "Casarões históricos não permanecem congelados no tempo.\n\nRecebem novas pinturas, divisórias, forros, instalações, remendos e adaptações. Cada geração resolve problemas diferentes e deixa sua própria camada sobre o edifício.\n\nEssas mudanças podem proteger elementos antigos, mas também podem escondê-los.\n\nNa Casa dos Contos, paredes e forros funcionaram como um arquivo material. Em vez de páginas, guardaram tintas, formas e soluções construtivas. Quando as camadas mais recentes foram examinadas, partes desse arquivo reapareceram.\n\nO valor da descoberta não está apenas na beleza das pinturas. Está também no que elas permitem perguntar: como aqueles ambientes foram concebidos, decorados e transformados ao longo do tempo?"
+            },
+            {
+              "type": "heading",
+              "text": "Mais do que uma reforma estética"
+            },
+            {
+              "type": "text",
+              "text": "A restauração não se limitou a devolver uma aparência antiga ao prédio.\n\nSegundo a página oficial, o telhado recebeu intervenções para ser reforçado sem perder a aparência do projeto original atribuído a Macedo. Também foram instalados para-raios, tensores, extintores, passarelas e iluminação sobre o telhado.\n\nIsso mostra uma operação que precisava conciliar preservação, segurança e uso contemporâneo.\n\nÉ nesse tipo de trabalho, quando superfícies são abertas e estruturas são examinadas, que detalhes antes invisíveis podem reaparecer.\n\nO restauro recuperou o edifício e, ao mesmo tempo, produziu novo conhecimento sobre ele."
+            },
+            {
+              "type": "heading",
+              "text": "Por que a descoberta tem peso histórico"
+            },
+            {
+              "type": "text",
+              "text": "As pinturas foram encontradas em um lugar diretamente ligado a temas centrais da história de Minas Gerais.\n\nO casarão foi residência de um contratador de tributos, recebeu tropas durante a devassa da Inconfidência, abrigou presos e se tornou sede da administração fazendária.\n\nDurante quase duzentos anos, a Casa dos Contos também acumulou documentos ligados à administração pública e à economia da região. Parte desse acervo foi posteriormente dividida entre instituições como a Biblioteca Nacional, o Arquivo Nacional e o Arquivo Público Mineiro.\n\nHoje, o museu abriga exposições documentais e numismáticas, mobiliário, biblioteca e outros acervos culturais.\n\nPor isso, as pinturas ocultas têm um peso duplo: são vestígios artísticos e pertencem a um edifício que participou diretamente da vida política, econômica e administrativa da antiga Vila Rica."
+            },
+            {
+              "type": "heading",
+              "text": "A surpresa estava nas paredes"
+            },
+            {
+              "type": "text",
+              "text": "Quando alguém imagina uma descoberta em um casarão antigo, é comum pensar em cofres, documentos ou passagens subterrâneas.\n\nNa Casa dos Contos, a surpresa foi mais silenciosa.\n\nNão apareceu um objeto perdido. Reapareceram elementos que sempre fizeram parte do próprio edifício.\n\nAs paredes e os forros deixaram de ser apenas superfícies e passaram a funcionar como evidência.\n\nIsso talvez seja o aspecto mais forte desta história: um monumento muito conhecido ainda podia guardar uma parte visível de si mesmo sem que ela estivesse, de fato, à vista.\n\nNa Casa dos Contos, a história não estava somente nos arquivos.\n\nTambém estava escondida nas paredes."
+            },
+            {
+              "type": "heading",
+              "text": "O que está documentado"
+            },
+            {
+              "type": "text",
+              "text": "- A Casa dos Contos foi construída entre 1782 e 1784.\n- O imóvel foi residência e Casa dos Contratados de João Rodrigues de Macedo.\n- Em 1789, aquartelou tropas do vice-rei e serviu como prisão nobre de inconfidentes.\n- A partir de 1792, passou a sediar a Administração e Contabilidade Pública da Capitania de Minas Gerais.\n- O prédio passou por uma restauração completa.\n- Durante o processo, foram encontradas algumas pinturas debaixo de forros e em paredes.\n- Também reapareceram estruturas e detalhes arquitetônicos anteriormente perdidos.\n- O imóvel é tombado pelo IPHAN desde 1950.\n- Atualmente funciona como Museu Casa dos Contos, na Rua São José, 12."
+            },
+            {
+              "type": "heading",
+              "text": "O que não devemos afirmar"
+            },
+            {
+              "type": "text",
+              "text": "As fontes consultadas não permitem dizer que:\n\n- foi encontrada uma sala secreta;\n- as pinturas foram escondidas de propósito;\n- a descoberta ocorreu em um cômodo específico;\n- todas as pinturas pertencem ao século XVIII;\n- foi revelado um único grande mural;\n- o edifício se tornou assombrado por causa da descoberta.\n\nA informação comprovada já é suficiente: uma restauração revelou pinturas sob forros e paredes e recuperou detalhes arquitetônicos antes invisíveis."
+            },
+            {
+              "type": "heading",
+              "text": "Linha do tempo"
+            },
+            {
+              "type": "text",
+              "text": "1782–1784 — Construção da Casa dos Contos como residência e Casa dos Contratados de João Rodrigues de Macedo.\n\n1789 — O imóvel aquartela tropas do vice-rei e serve de prisão nobre para inconfidentes.\n\n1792 em diante — A casa passa a sediar a Administração e Contabilidade Pública da Capitania de Minas Gerais.\n\nInício do século XIX — O conjunto recebe acréscimos relacionados à Casa de Fundição e da Moeda.\n\nSéculo XX — O edifício funciona como sede de diferentes órgãos públicos.\n\n1973 — O imóvel é restaurado, retorna ao Ministério da Fazenda e recebe o Centro de Estudos do Ciclo do Ouro.\n\nDurante a restauração completa — Pinturas sob forros e paredes, estruturas e detalhes arquitetônicos antes perdidos são revelados.\n\nHoje — O Museu Casa dos Contos reúne exposições, documentos, acervo numismático, biblioteca e visitação pública."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "Pinturas escondidas são reveladas na Casa dos Contos em Ouro Preto",
+          "seoDescription": "Durante a restauração da Casa dos Contos, pinturas foram encontradas sob forros e paredes, junto a detalhes arquitetônicos antes perdidos.",
+          "shortScript": ""
+        },
+        "en": {
+          "slug": "hidden-paintings-casa-dos-contos",
+          "title": "The hidden paintings of Casa dos Contos",
+          "hook": "During a complete restoration, paintings reappeared beneath ceilings and on walls inside one of Ouro Preto’s most famous mansions.",
+          "summary": "The restoration of Casa dos Contos revealed paintings beneath ceilings and on walls, together with structures and architectural details that had been lost. The building itself preserved invisible traces of its history within its layers.",
+          "editorialNote": "Ouro Preto’s Municipal Department of Culture and Tourism documents the discovery of paintings beneath ceilings and on walls, as well as the recovery of structures and architectural details. The source does not identify every room, date or artist, so those details are not inferred. The photograph shows the present-day façade of Casa dos Contos.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Anyone looking at Casa dos Contos from the street can tell that this is no ordinary building.\n\nThe mansion dominates Rua São José with tall windows, exposed stone, solemn proportions and the unmistakable presence of a place that has stood at the centre of Ouro Preto for more than two centuries.\n\nYet part of its beauty remained invisible for a long time.\n\nDuring a complete restoration, paintings were found beneath ceilings and on walls. The work also revealed structures and architectural details that had disappeared under later alterations.\n\nThe building had preserved more than documents and memories.\n\nIts own layers still concealed part of its history."
+            },
+            {
+              "type": "heading",
+              "text": "Before the discovery, a house of power"
+            },
+            {
+              "type": "text",
+              "text": "Casa dos Contos was built between 1782 and 1784 as the residence and contractors' house of João Rodrigues de Macedo, who held tax collection contracts in the captaincy.\n\nIt was a prestigious private residence in Vila Rica. Macedo's social position and his connection to the fiscal system help explain the scale and monumentality of the building.\n\nIn 1789, during the repression of the Minas Conspiracy, the property quartered the viceroy's troops and served as a privileged prison for conspirators. Among those held there was the poet Cláudio Manoel da Costa, who died in the building.\n\nFrom 1792 onward, the house accommodated the Public Administration and Accounting Office of the Captaincy of Minas Gerais. That role established the name by which the building is still known.\n\nIn the early nineteenth century, additions associated with the Assay and Mint House were made to the complex. During the twentieth century, several public agencies also occupied it."
+            },
+            {
+              "type": "heading",
+              "text": "What the restoration found"
+            },
+            {
+              "type": "text",
+              "text": "The official page of Ouro Preto's Municipal Department of Culture and Tourism does not describe a single, monumental artwork.\n\nIt says that several paintings were found beneath ceilings and on walls, together with structures and architectural details that had previously been lost.\n\nThat precision matters.\n\nThere is no basis for claiming that restorers found a secret room, a mural deliberately sealed away or one specific masterpiece hidden by a particular person. What is documented is the discovery of paintings and architectural elements that were no longer visible before the restoration.\n\nEven so, the find changes how the mansion can be understood.\n\nPart of the decoration and physical organisation of its rooms had survived beneath later layers. The building had to be carefully opened and examined before those traces could appear again."
+            },
+            {
+              "type": "heading",
+              "text": "A building can also be an archive"
+            },
+            {
+              "type": "text",
+              "text": "Historic houses do not remain frozen in time.\n\nThey receive new coats of paint, partitions, ceilings, utilities, repairs and adaptations. Each generation solves different problems and leaves another layer on the building.\n\nThose changes can protect older elements, but they can also hide them.\n\nAt Casa dos Contos, walls and ceilings acted as a material archive. Instead of pages, they preserved pigments, forms and construction solutions. When later layers were examined, parts of that archive resurfaced.\n\nThe value of the discovery lies not only in the beauty of the paintings. It also lies in the questions they make possible: how were these rooms conceived, decorated and transformed over time?"
+            },
+            {
+              "type": "heading",
+              "text": "More than a cosmetic renovation"
+            },
+            {
+              "type": "text",
+              "text": "The restoration did more than return an old appearance to the building.\n\nAccording to the official municipal page, the roof was reinforced while preserving the appearance of the original design associated with Macedo. Lightning rods, tensioning elements, fire extinguishers, walkways and roof lighting were also installed.\n\nThe project therefore had to reconcile conservation, safety and contemporary use.\n\nIt is during this kind of work, when surfaces are opened and structures are examined, that details hidden from view can emerge.\n\nThe restoration recovered the building and simultaneously produced new knowledge about it."
+            },
+            {
+              "type": "heading",
+              "text": "Why the discovery carries historical weight"
+            },
+            {
+              "type": "text",
+              "text": "The paintings were found in a place directly connected to central themes in the history of Minas Gerais.\n\nThe mansion was the home of a tax contractor, housed troops during the investigation of the Minas Conspiracy, held prisoners and became the seat of the treasury administration.\n\nFor almost two hundred years, Casa dos Contos also accumulated records related to public administration and the regional economy. Parts of this archive were later divided among institutions including the National Library, the National Archive and the Minas Gerais Public Archive.\n\nToday, the museum contains documentary and numismatic exhibitions, furniture, a library and other cultural collections.\n\nThe hidden paintings therefore carry a double significance: they are artistic remains, and they belong to a building that took part directly in the political, economic and administrative life of colonial Vila Rica."
+            },
+            {
+              "type": "heading",
+              "text": "The surprise was in the walls"
+            },
+            {
+              "type": "text",
+              "text": "When people imagine a discovery inside an old mansion, they often think of safes, documents or underground passages.\n\nAt Casa dos Contos, the surprise was quieter.\n\nNo lost object appeared. Elements that had always belonged to the building became visible again.\n\nThe walls and ceilings ceased to be mere surfaces and became evidence.\n\nThat may be the most powerful part of this story: a famous monument could still keep a visible part of itself hidden in plain sight.\n\nAt Casa dos Contos, history was not only stored in the archives.\n\nIt was also hidden in the walls."
+            },
+            {
+              "type": "heading",
+              "text": "What is documented"
+            },
+            {
+              "type": "text",
+              "text": "- Casa dos Contos was built between 1782 and 1784.\n- It served as the residence and contractors' house of João Rodrigues de Macedo.\n- In 1789, it quartered the viceroy's troops and served as a privileged prison for conspirators.\n- From 1792 onward, it housed the Public Administration and Accounting Office of the Captaincy of Minas Gerais.\n- The building underwent a complete restoration.\n- During that process, paintings were found beneath ceilings and on walls.\n- Structures and architectural details that had previously been lost were also recovered.\n- The property has been listed by IPHAN since 1950.\n- It now operates as Museu Casa dos Contos at 12 Rua São José."
+            },
+            {
+              "type": "heading",
+              "text": "What should not be claimed"
+            },
+            {
+              "type": "text",
+              "text": "The sources consulted do not support claims that:\n\n- a secret room was found;\n- the paintings were deliberately hidden;\n- the discovery occurred in a specifically identified room;\n- all the paintings date to the eighteenth century;\n- one single large mural was revealed;\n- the building became haunted because of the discovery.\n\nThe documented account is already compelling: restoration revealed paintings beneath ceilings and on walls and recovered architectural details that had been invisible."
+            },
+            {
+              "type": "heading",
+              "text": "Timeline"
+            },
+            {
+              "type": "text",
+              "text": "1782–1784 — Casa dos Contos is built as the residence and contractors' house of João Rodrigues de Macedo.\n\n1789 — The property quarters the viceroy's troops and serves as a privileged prison for conspirators.\n\nFrom 1792 — The house accommodates the Public Administration and Accounting Office of the Captaincy of Minas Gerais.\n\nEarly nineteenth century — Additions associated with the Assay and Mint House are made to the complex.\n\nTwentieth century — The building serves as the headquarters of different public agencies.\n\n1973 — The property is restored, returned to the Ministry of Finance and becomes home to the Centre for Gold Cycle Studies.\n\nDuring the complete restoration — Paintings beneath ceilings and on walls, along with structures and architectural details previously lost, are revealed.\n\nToday — Museu Casa dos Contos houses exhibitions, documents, a numismatic collection, a library and public visitors."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "Hidden paintings revealed at Casa dos Contos in Ouro Preto",
+          "seoDescription": "Restoration at Casa dos Contos uncovered paintings beneath ceilings and on walls, along with architectural details that had been lost.",
+          "shortScript": ""
+        }
+      }
+    }
+  ]
+}

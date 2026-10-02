@@ -1,0 +1,1 @@
+import {config} from '@/lib/access';export default function robots(){const c=config();return {rules:{userAgent:'*',allow:c.publicIndexing?'/':undefined,disallow:c.publicIndexing?['/admin','/api','/*/pass','/*/biblioteca']:['/']},sitemap:c.origin?c.origin+'/sitemap.xml':undefined};}

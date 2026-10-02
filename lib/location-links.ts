@@ -1,0 +1,4 @@
+import type {PublicStory} from './model';
+import type {Locale} from './model';
+export function locationGuidance(story:PublicStory,locale:Locale){return story.id==='op-008'?(locale==='en'?'The municipal tourism page indicates access through Morro de São Sebastião and recommends an accredited guide familiar with the area. This pin is a reference for the archaeological site, not a marked trail or an exact ruin.':'A Prefeitura indica acesso pela região do Morro de São Sebastião e recomenda guia credenciado que conheça o local. O ponto é uma referência do sítio arqueológico, não uma trilha demarcada ou uma ruína exata.') : '';}
+export function mapsUrl(story:PublicStory){return 'https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(`${story.location.name}, ${story.location.address}, Ouro Preto, MG`);}

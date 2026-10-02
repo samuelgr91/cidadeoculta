@@ -1,0 +1,1 @@
+CREATE INDEX `kiwify_buyer_status` ON `kiwify_purchases` (`buyer_email`,`status`);

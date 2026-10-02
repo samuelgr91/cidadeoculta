@@ -1,0 +1,14 @@
+[build]
+command = "node scripts/migrate-turso.mjs --apply --only=0006_omniscient_thor.sql && node scripts/migrate-turso.mjs --apply --only=0007_tranquil_clea.sql && node scripts/migrate-turso.mjs --apply --only=0008_unusual_lilith.sql && node scripts/migrate-turso.mjs --apply --only=0009_typical_madelyne_pryor.sql && node --experimental-strip-types scripts/import-editorial-batch.mjs --apply && node --experimental-strip-types scripts/import-editorial-batch.mjs --apply --batch=batch-op008.json && node --experimental-strip-types scripts/import-editorial-batch.mjs --apply --batch=batch-op061.json && node --experimental-strip-types scripts/import-editorial-batch.mjs --apply --batch=batch-op062.json && npm run build:netlify"
+publish = ".next"
+
+[build.environment]
+NODE_VERSION = "22"
+
+[functions]
+directory = "netlify/functions"
+node_bundler = "esbuild"
+
+# Netlify Drop needs the Next.js runtime explicitly to publish dynamic routes.
+[[plugins]]
+package = "@netlify/plugin-nextjs"

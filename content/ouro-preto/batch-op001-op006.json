@@ -1,0 +1,1071 @@
+{
+  "id": "ouro-preto-op001-op006-v1",
+  "locations": [
+    {
+      "id": "sobrado-vira-saia",
+      "cityId": "ouro-preto",
+      "name": "Sobrado do Vira-Saia",
+      "lat": -20.3875,
+      "lng": -43.49806,
+      "address": "Ladeira de Santa Efigênia, em frente ao oratório · referência aproximada do entorno",
+      "precision": "approximate"
+    },
+    {
+      "id": "praca-tiradentes",
+      "cityId": "ouro-preto",
+      "name": "Praça Tiradentes",
+      "lat": -20.3854,
+      "lng": -43.5035,
+      "address": "Praça Tiradentes, Centro · referência aproximada; não indica o destino da cabeça",
+      "precision": "approximate"
+    }
+  ],
+  "stories": [
+    {
+      "editorialCode": "OP-001",
+      "id": "oratorio-vira-saia",
+      "cityId": "ouro-preto",
+      "locationId": "vira-saia",
+      "truthStatus": "oral_tradition",
+      "accessLevel": "open",
+      "depth": "story",
+      "category": "Segredos e símbolos",
+      "estimatedSeconds": 150,
+      "image": "/media/ouro-preto.jpg",
+      "imageCredit": "Alisson Jonas Cardoso Gontijo · CC BY-SA 4.0 · Wikimedia Commons. Fotografia panorâmica de Ouro Preto, não do local específico.",
+      "mapImage": "/media/landing/oratorio-evening.webp",
+      "mapImageCredit": "Ilustração contextual de Ouro Preto por IA · Cidade Oculta · não retrata o local exato",
+      "sources": [
+        {
+          "title": "Prefeitura de Ouro Preto — Oratório do Vira Saia",
+          "url": "https://www.ouropreto.mg.gov.br/turismo/atrativo-item/1360",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Fonte-base indicada no documento editorial OP-001 a OP-006. Distingue o registro do patrimônio ou da tradição da comprovação dos episódios narrados."
+        },
+        {
+          "title": "Prefeitura de Ouro Preto — Dossiê de Tombamento do Núcleo Histórico de Ouro Preto, Parte II",
+          "url": "https://ouropreto.mg.gov.br/turismo/arquivos/dossies/Dossi%C3%AA%20de%20Tombamento_N%C3%BAcleo%20Hist%C3%B3rio%20de%20Ouro%20Preto_Parte%20II.pdf",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Fonte-base indicada no documento editorial OP-001 a OP-006. Distingue o registro do patrimônio ou da tradição da comprovação dos episódios narrados."
+        }
+      ],
+      "localeContent": {
+        "pt-br": {
+          "slug": "oratorio-vira-saia",
+          "title": "O Oratório do Vira-Saia",
+          "hook": "Um santo teria servido de código para ladrões de ouro.",
+          "summary": "Um pequeno oratório setecentista preservado em Ouro Preto ficou associado à tradição de um sistema de sinais usado para indicar por qual caminho passariam carregamentos de ouro.",
+          "editorialNote": "O oratório é um patrimônio documentado. O uso da imagem como código pertence à tradição oral, sem comprovação documental do mecanismo. As fotografias contextualizam Ouro Preto; cenas por IA são ilustrações editoriais.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Na esquina da Rua Santa Efigênia com a Rua Barão do Ouro Branco permanece um dos oratórios de fachada mais conhecidos de Ouro Preto. O monumento é chamado de Oratório do Vira-Saia ou Oratório de Santa Cruz e pertence ao conjunto de pequenos altares construídos junto às ruas da antiga Vila Rica. A Prefeitura o descreve como um dos últimos exemplares de fachada remanescentes na cidade, ligado à prática religiosa de abençoar quem passava e, segundo antigas crenças locais, afastar assombrações."
+            },
+            {
+              "type": "text",
+              "text": "A fama do oratório, porém, não vem apenas de sua função religiosa. Uma tradição preservada nos inventários patrimoniais de Ouro Preto relaciona o local a Antônio Francisco Alves, o Vira-Saia, personagem associado a um grupo de salteadores que teria interceptado tropas carregadas de ouro. Segundo essa narrativa, Vira-Saia recebia informações sobre o trajeto dos comboios e o pequeno oratório em frente à sua residência teria sido usado como um sistema de comunicação."
+            },
+            {
+              "type": "text",
+              "text": "A tradição descreve dois caminhos possíveis para os carregamentos que deixavam Vila Rica rumo ao Rio de Janeiro. Um seguiria por Saramenha e Ouro Branco; outro passaria pelas Cabeças, Passa Dez e Cachoeira do Campo. A posição da imagem religiosa no interior do oratório teria indicado ao grupo qual desses caminhos seria utilizado. Virada para um lado, sinalizaria uma rota; voltada para o outro, a alternativa."
+            },
+            {
+              "type": "text",
+              "text": "Essa história é especialmente interessante porque mistura um patrimônio material real com uma narrativa oral que sobreviveu ao redor dele. O oratório existe, é reconhecido e inventariado como bem histórico. Já o mecanismo de comunicação entre ladrões pertence ao campo da tradição e não deve ser apresentado como um sistema comprovado documentalmente."
+            },
+            {
+              "type": "text",
+              "text": "Hoje, o valor do lugar está justamente nessa sobreposição. Para quem passa pela ladeira, trata-se de uma pequena construção religiosa integrada ao casario. Para a memória local, é também um ponto onde fé, medo, contrabando e lenda se encontram. O resultado é uma das histórias que melhor representam a proposta de Ouro Preto Oculta: um objeto que pode parecer discreto na paisagem, mas que carrega várias camadas de significado."
+            },
+            {
+              "type": "heading",
+              "text": "Núcleo documentado"
+            },
+            {
+              "type": "text",
+              "text": "O Oratório do Vira-Saia existe e é inventariado como oratório de fachada do século XVIII."
+            },
+            {
+              "type": "text",
+              "text": "Ele fica na esquina da Rua Santa Efigênia com a Rua Barão do Ouro Branco."
+            },
+            {
+              "type": "text",
+              "text": "A Prefeitura registra sua função religiosa e sua associação à tradição do Vira-Saia."
+            },
+            {
+              "type": "heading",
+              "text": "Tradição e pontos não estabelecidos"
+            },
+            {
+              "type": "text",
+              "text": "O uso da posição da imagem religiosa como código para indicar a rota dos carregamentos de ouro."
+            },
+            {
+              "type": "text",
+              "text": "A atuação coordenada de quadrilhas a partir desses sinais."
+            },
+            {
+              "type": "text",
+              "text": "Os detalhes operacionais do sistema de comunicação."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "O Oratório do Vira-Saia",
+          "seoDescription": "Um pequeno oratório setecentista preservado em Ouro Preto ficou associado à tradição de um sistema de sinais usado para indicar por qual caminho passariam carregamentos de ouro.",
+          "shortScript": ""
+        },
+        "en": {
+          "slug": "vira-saia-oratory",
+          "title": "The Vira-Saia Oratory",
+          "hook": "A saint’s image was supposedly a code for gold thieves.",
+          "summary": "A small eighteenth-century roadside shrine in Ouro Preto became associated with the tradition of a system of signals indicating which route gold shipments would take.",
+          "editorialNote": "The shrine is a real, documented heritage site. Its alleged use as a communication system belongs to oral tradition; it is not presented as a proven mechanism. The photographs provide context for Ouro Preto, while AI scenes are editorial illustrations.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "At the corner of Santa Efigênia Street and Barão do Ouro Branco Street stands one of Ouro Preto’s best-known facade shrines. Called the Vira-Saia Oratory or Santa Cruz Oratory, it belongs to a group of small altars built along the streets of former Vila Rica. The municipal tourism office describes it as one of the city’s last surviving examples, connected with the religious practice of blessing passers-by and, according to old local beliefs, keeping ghosts away."
+            },
+            {
+              "type": "text",
+              "text": "The shrine’s fame, however, comes from more than its religious function. A tradition preserved in Ouro Preto’s heritage inventories connects the site with Antônio Francisco Alves, known as Vira-Saia, a figure associated with a band of robbers said to have intercepted caravans carrying gold. In this account, Vira-Saia received information about the convoys’ routes, and the small shrine opposite his home supposedly served as a communication system."
+            },
+            {
+              "type": "text",
+              "text": "The tradition describes two possible routes for shipments leaving Vila Rica for Rio de Janeiro. One went through Saramenha and Ouro Branco; the other passed through Cabeças, Passa Dez and Cachoeira do Campo. The position of the religious image inside the shrine supposedly told the band which road would be used. Facing one way, it indicated one route; facing the other, the alternative."
+            },
+            {
+              "type": "text",
+              "text": "This story is particularly interesting because it combines a real physical heritage site with an oral narrative that survived around it. The shrine exists and is officially recognized and inventoried. The supposed communication between thieves, however, belongs to tradition and should not be presented as a system established by documentary evidence."
+            },
+            {
+              "type": "text",
+              "text": "Today, the place’s significance lies precisely in this overlap. To someone walking along the hillside street, it is a small religious structure integrated into the surrounding houses. In local memory, it is also a place where faith, fear, smuggling and legend meet. The result is one of the stories that best captures the idea of Ouro Preto Oculta: an object that may look inconspicuous in the landscape but holds several layers of meaning."
+            },
+            {
+              "type": "heading",
+              "text": "Documented core"
+            },
+            {
+              "type": "text",
+              "text": "The Vira-Saia Oratory exists and is inventoried as an eighteenth-century facade shrine."
+            },
+            {
+              "type": "text",
+              "text": "It stands at the corner of Santa Efigênia and Barão do Ouro Branco streets."
+            },
+            {
+              "type": "text",
+              "text": "The municipality records its religious function and its association with the Vira-Saia tradition."
+            },
+            {
+              "type": "heading",
+              "text": "Tradition and unresolved questions"
+            },
+            {
+              "type": "text",
+              "text": "The religious image’s position serving as a code for gold shipments’ routes."
+            },
+            {
+              "type": "text",
+              "text": "Coordinated action by bands of robbers using those signals."
+            },
+            {
+              "type": "text",
+              "text": "The operational details of the supposed communication system."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "The Vira-Saia Oratory",
+          "seoDescription": "A small eighteenth-century roadside shrine in Ouro Preto became associated with the tradition of a system of signals indicating which route gold shipments would take.",
+          "shortScript": ""
+        }
+      }
+    },
+    {
+      "editorialCode": "OP-002",
+      "id": "op-002",
+      "cityId": "ouro-preto",
+      "locationId": "sobrado-vira-saia",
+      "truthStatus": "oral_tradition",
+      "accessLevel": "premium",
+      "depth": "story",
+      "category": "Segredos e símbolos",
+      "estimatedSeconds": 146,
+      "image": "/media/ouro-preto.jpg",
+      "imageCredit": "Alisson Jonas Cardoso Gontijo · CC BY-SA 4.0 · Wikimedia Commons. Fotografia panorâmica de Ouro Preto, não do local específico.",
+      "mapImage": "/media/landing/ouro-preto-night.webp",
+      "mapImageCredit": "Ilustração contextual de Ouro Preto por IA · Cidade Oculta · não retrata o local exato",
+      "sources": [
+        {
+          "title": "Prefeitura de Ouro Preto — Sobrado do Vira-Saia",
+          "url": "https://www.ouropreto.mg.gov.br/turismo/atrativo-item/1385",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Fonte-base indicada no documento editorial OP-001 a OP-006. Distingue o registro do patrimônio ou da tradição da comprovação dos episódios narrados."
+        },
+        {
+          "title": "Prefeitura de Ouro Preto — Dossiê de Tombamento da Capela Nossa Senhora dos Remédios",
+          "url": "https://ouropreto.mg.gov.br/turismo/arquivos/dossies/Dossi%C3%AA%20de%20Tombamento_Capela%20N%20Sra%20dos%20Remedios_atualizado_2023.pdf",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Fonte-base indicada no documento editorial OP-001 a OP-006. Distingue o registro do patrimônio ou da tradição da comprovação dos episódios narrados."
+        }
+      ],
+      "localeContent": {
+        "pt-br": {
+          "slug": "vira-saia-robin-hood-ouro-preto",
+          "title": "Vira-Saia, o “Robin Hood” de Ouro Preto",
+          "hook": "Um morador do século XVIII virou um dos fora-da-lei mais lendários da cidade.",
+          "summary": "A memória de Antônio Francisco Alves, o Vira-Saia, transformou um morador do século XVIII em um dos personagens mais lendários de Ouro Preto.",
+          "editorialNote": "O sobrado e a placa de 1741 são documentados; a biografia de bandoleiro, a comparação com Robin Hood e o bando pertencem à tradição local. O ponto no mapa é uma referência patrimonial aproximada, não um local de crime comprovado.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Na Ladeira de Santa Efigênia existe um sobrado oficialmente associado a Antônio Francisco Alves, conhecido como Vira-Saia. O imóvel é um testemunho material do século XVIII e conserva, em seu interior, uma placa de pedra-sabão datada de 1741. Ao redor desse personagem, no entanto, desenvolveu-se uma narrativa muito maior do que aquilo que a arquitetura consegue comprovar."
+            },
+            {
+              "type": "text",
+              "text": "Segundo relatos tradicionais reunidos em dossiês patrimoniais do município, Vira-Saia teria sido um homem rico, reservado e influente. A mesma tradição o apresenta como chefe de um grupo chamado Almas do Purgatório, posteriormente conhecido como os Vira-Saias. O bando teria atuado contra carregamentos de ouro que deixavam as Minas em direção ao Rio de Janeiro."
+            },
+            {
+              "type": "text",
+              "text": "É nesse ponto que surge a comparação com Robin Hood. Documentos patrimoniais registram que a memória popular descrevia Vira-Saia como alguém que atacava os ricos portugueses e ajudava agregados e protegidos. A comparação é parte da tradição: ela expressa a forma como o personagem passou a ser lembrado, e não uma conclusão histórica de que ele realmente tenha desempenhado esse papel social da maneira narrada."
+            },
+            {
+              "type": "text",
+              "text": "A lenda se torna ainda mais elaborada com a existência de um suposto informante ligado à Casa de Fundição. Vira-Saia teria recebido antecipadamente notícias sobre o caminho escolhido pelos comboios e usado o oratório em frente à sua casa para repassar a informação ao grupo. O santo seria posicionado de maneira diferente conforme a rota."
+            },
+            {
+              "type": "text",
+              "text": "O que temos, portanto, são dois níveis distintos. O primeiro é concreto: há um sobrado histórico, um oratório e uma placa setecentista associados ao nome de Antônio Francisco Alves. O segundo é a biografia lendária construída ao longo do tempo: chefe de bando, informante, roubos aos portugueses, ajuda aos mais pobres e códigos secretos."
+            },
+            {
+              "type": "text",
+              "text": "Essa separação não enfraquece a história. Pelo contrário. Ela mostra como Ouro Preto preserva não apenas edifícios, mas também maneiras de lembrar seus personagens. Vira-Saia tornou-se uma figura que vive entre patrimônio e tradição — suficientemente ligada à cidade para deixar marcas físicas e suficientemente envolta em relatos para continuar provocando curiosidade séculos depois."
+            },
+            {
+              "type": "heading",
+              "text": "Núcleo documentado"
+            },
+            {
+              "type": "text",
+              "text": "O Sobrado do Vira-Saia existe e é reconhecido pela Prefeitura de Ouro Preto."
+            },
+            {
+              "type": "text",
+              "text": "O imóvel possui uma placa interna de pedra-sabão datada de 1741."
+            },
+            {
+              "type": "text",
+              "text": "O oratório associado ao personagem também é um bem histórico preservado."
+            },
+            {
+              "type": "heading",
+              "text": "Tradição e pontos não estabelecidos"
+            },
+            {
+              "type": "text",
+              "text": "Vira-Saia como chefe das Almas do Purgatório."
+            },
+            {
+              "type": "text",
+              "text": "A comparação com Robin Hood e a ajuda a protegidos."
+            },
+            {
+              "type": "text",
+              "text": "O informante na Casa de Fundição e os ataques organizados aos comboios."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "Vira-Saia, o “Robin Hood” de Ouro Preto",
+          "seoDescription": "A memória de Antônio Francisco Alves, o Vira-Saia, transformou um morador do século XVIII em um dos personagens mais lendários de Ouro Preto.",
+          "shortScript": ""
+        },
+        "en": {
+          "slug": "vira-saia-robin-hood-of-ouro-preto",
+          "title": "Vira-Saia, Ouro Preto’s ‘Robin Hood’",
+          "hook": "An eighteenth-century resident became one of the city’s most legendary outlaws.",
+          "summary": "The memory of Antônio Francisco Alves, known as Vira-Saia, turned an eighteenth-century resident into one of Ouro Preto’s most legendary figures.",
+          "editorialNote": "The historic house and its dated inscription are documented. The outlaw biography, the Robin Hood comparison and the alleged band belong to local tradition. The map marks an approximate heritage reference, not the proven location of a crime.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "On the steep street of Santa Efigênia stands a historic townhouse officially associated with Antônio Francisco Alves, known as Vira-Saia. The building is a material witness to the eighteenth century and preserves a soapstone plaque dated 1741 inside. Around this figure, however, a narrative developed that goes far beyond what the architecture can establish."
+            },
+            {
+              "type": "text",
+              "text": "According to traditional accounts gathered in municipal heritage dossiers, Vira-Saia was supposedly a wealthy, reserved and influential man. The same tradition describes him as the leader of a group called Almas do Purgatório — Souls of Purgatory — later known as the Vira-Saias. The band allegedly attacked gold shipments leaving Minas for Rio de Janeiro."
+            },
+            {
+              "type": "text",
+              "text": "This is where the comparison with Robin Hood appears. Heritage documents record that popular memory described Vira-Saia as someone who attacked wealthy Portuguese people and helped dependants and protégés. The comparison is part of the tradition: it expresses how the character came to be remembered, rather than a historical conclusion that he actually played that social role as described."
+            },
+            {
+              "type": "text",
+              "text": "The legend grows more elaborate with a supposed informer connected to the gold foundry. Vira-Saia allegedly received advance news of the route chosen by the convoys and used the shrine opposite his house to pass that information to the band. The saint’s image would be positioned differently according to the route."
+            },
+            {
+              "type": "text",
+              "text": "We therefore have two distinct levels. The first is tangible: a historic townhouse, a shrine and an eighteenth-century plaque are associated with Antônio Francisco Alves. The second is the legendary biography built over time: band leader, informer, raids on the Portuguese, help for the poor and secret codes."
+            },
+            {
+              "type": "text",
+              "text": "This distinction does not weaken the story. On the contrary, it shows how Ouro Preto preserves not only buildings but also ways of remembering its characters. Vira-Saia became a figure who lives between heritage and tradition — closely enough connected with the city to leave physical traces, and sufficiently wrapped in stories to keep provoking curiosity centuries later."
+            },
+            {
+              "type": "heading",
+              "text": "Documented core"
+            },
+            {
+              "type": "text",
+              "text": "The Vira-Saia townhouse exists and is recognized by the municipality of Ouro Preto."
+            },
+            {
+              "type": "text",
+              "text": "The building has an interior soapstone plaque dated 1741."
+            },
+            {
+              "type": "text",
+              "text": "The shrine associated with the character is also a surviving historic site."
+            },
+            {
+              "type": "heading",
+              "text": "Tradition and unresolved questions"
+            },
+            {
+              "type": "text",
+              "text": "Vira-Saia leading the Souls of Purgatory band."
+            },
+            {
+              "type": "text",
+              "text": "The Robin Hood comparison and assistance to protégés."
+            },
+            {
+              "type": "text",
+              "text": "An informer at the gold foundry and organized attacks on convoys."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "Vira-Saia, Ouro Preto’s ‘Robin Hood’",
+          "seoDescription": "The memory of Antônio Francisco Alves, known as Vira-Saia, turned an eighteenth-century resident into one of Ouro Preto’s most legendary figures.",
+          "shortScript": ""
+        }
+      }
+    },
+    {
+      "editorialCode": "OP-003",
+      "id": "op-003",
+      "cityId": "ouro-preto",
+      "locationId": "praca-tiradentes",
+      "truthStatus": "disputed",
+      "accessLevel": "premium",
+      "depth": "story",
+      "category": "Poder e memória",
+      "estimatedSeconds": 162,
+      "image": "/media/ouro-preto.jpg",
+      "imageCredit": "Alisson Jonas Cardoso Gontijo · CC BY-SA 4.0 · Wikimedia Commons. Fotografia panorâmica de Ouro Preto, não do local específico.",
+      "mapImage": "/media/landing/ouro-preto-night.webp",
+      "mapImageCredit": "Ilustração contextual de Ouro Preto por IA · Cidade Oculta · não retrata o local exato",
+      "sources": [
+        {
+          "title": "Prefeitura de Ouro Preto — Passeio a Ouro Preto com Guignard",
+          "url": "https://www.ouropreto.mg.gov.br/turismo/rota-item/18",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Fonte-base indicada no documento editorial OP-001 a OP-006. Distingue o registro do patrimônio ou da tradição da comprovação dos episódios narrados."
+        },
+        {
+          "title": "Bernardo Guimarães — Histórias e Tradições da Província de Minas Gerais",
+          "url": "https://pt.wikisource.org/wiki/Hist%C3%B3rias_e_Tradi%C3%A7%C3%B5es_da_Prov%C3%ADncia_de_Minas_Gerais/I",
+          "institution": "Bernardo Guimarães · Wikisource",
+          "note": "Registro literário da tradição, escrito décadas depois dos fatos. Não constitui prova do destino do crânio."
+        }
+      ],
+      "localeContent": {
+        "pt-br": {
+          "slug": "cabeca-de-tiradentes-desaparecida",
+          "title": "A Cabeça que Sumiu da Praça",
+          "hook": "A cabeça de Tiradentes foi exposta em Vila Rica. Para onde ela foi depois?",
+          "summary": "A cabeça de Tiradentes foi exposta em Vila Rica após sua execução. O que aconteceu depois permanece cercado por tradições diferentes.",
+          "editorialNote": "A execução e a exposição pública formam o núcleo histórico. As versões sobre a retirada e o destino da cabeça permanecem disputadas. O mapa usa a Praça Tiradentes como referência; não situa um esconderijo no bairro Cabeças.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "A Praça Tiradentes é hoje dominada pelo monumento dedicado ao personagem que lhe dá nome. No final do século XVIII, porém, aquele espaço esteve ligado a uma imagem muito diferente da memória da Inconfidência. Depois da execução de Joaquim José da Silva Xavier, em 21 de abril de 1792, sua cabeça foi enviada a Vila Rica e exposta publicamente na praça central."
+            },
+            {
+              "type": "text",
+              "text": "A exposição fazia parte do caráter exemplar da punição imposta a Tiradentes. Seu corpo foi esquartejado, e partes foram destinadas a diferentes pontos ligados à sua trajetória. A cabeça enviada a Vila Rica deveria funcionar como demonstração pública do poder da Coroa. A presença dela na praça é o núcleo histórico da história."
+            },
+            {
+              "type": "text",
+              "text": "O mistério começa depois. A própria Prefeitura de Ouro Preto preserva, em um roteiro turístico-literário, uma lenda segundo a qual a cabeça teria sido roubada numa noite escura e tempestuosa por um padre que morava no bairro das Cabeças. A narrativa diz que esse homem guardava o crânio em uma caixa e, em alguns momentos, o colocava sobre uma mesa para meditar diante dele."
+            },
+            {
+              "type": "text",
+              "text": "Outra versão importante foi registrada pelo escritor Bernardo Guimarães. Em 1867, ele escreveu “A Cabeça do Tiradentes. Tradição mineira”. Seu texto narra o desaparecimento como uma história tradicional e descreve um vulto que se aproxima durante a noite, retira a cabeça e desaparece. Anos depois, o crânio estaria associado a um homem misterioso que o teria conservado como uma espécie de relíquia."
+            },
+            {
+              "type": "text",
+              "text": "O valor do relato de Bernardo não está em provar o que ocorreu em 1792. Ele escreveu décadas depois e apresenta a própria narrativa como tradição. Seu texto é, portanto, uma fonte importante para demonstrar que o desaparecimento e suas versões já faziam parte da memória de Ouro Preto no século XIX."
+            },
+            {
+              "type": "text",
+              "text": "As fontes utilizadas permitem separar claramente os níveis da história. A execução de Tiradentes, o esquartejamento e a exposição de sua cabeça em Vila Rica fazem parte do núcleo histórico. Já a identidade de quem retirou a cabeça, o momento exato do desaparecimento, a história do padre e o destino final do crânio permanecem sem resposta segura."
+            },
+            {
+              "type": "text",
+              "text": "É isso que torna a história tão poderosa. No ponto mais visitado de Ouro Preto existe um episódio em que o registro histórico termina e a tradição começa. Séculos depois, a pergunta essencial continua aberta: depois de ser exibida na antiga Vila Rica, onde foi parar a cabeça de Tiradentes?"
+            },
+            {
+              "type": "heading",
+              "text": "Núcleo documentado"
+            },
+            {
+              "type": "text",
+              "text": "Tiradentes foi executado em 1792 e seu corpo foi esquartejado."
+            },
+            {
+              "type": "text",
+              "text": "Sua cabeça foi enviada a Vila Rica."
+            },
+            {
+              "type": "text",
+              "text": "A cabeça foi exposta na praça central, atual Praça Tiradentes."
+            },
+            {
+              "type": "heading",
+              "text": "Tradição e pontos não estabelecidos"
+            },
+            {
+              "type": "text",
+              "text": "O roubo por um padre que vivia no bairro das Cabeças."
+            },
+            {
+              "type": "text",
+              "text": "O modo exato como a cabeça teria sido retirada."
+            },
+            {
+              "type": "text",
+              "text": "O destino final do crânio."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "A Cabeça que Sumiu da Praça",
+          "seoDescription": "A cabeça de Tiradentes foi exposta em Vila Rica após sua execução. O que aconteceu depois permanece cercado por tradições diferentes.",
+          "shortScript": ""
+        },
+        "en": {
+          "slug": "the-disappearing-head-of-tiradentes",
+          "title": "The Head That Vanished from the Square",
+          "hook": "Tiradentes’ head was displayed in Vila Rica. Where did it go afterwards?",
+          "summary": "Tiradentes’ head was displayed in Vila Rica after his execution. What happened next remains surrounded by different traditions.",
+          "editorialNote": "The execution and public display form the historical core. Accounts of the removal and the skull’s fate differ and are not settled here. The map uses Tiradentes Square as its reference; it does not identify a hiding place in Cabeças.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Tiradentes Square is now dominated by the monument to the figure after whom it is named. In the late eighteenth century, however, that space was associated with a very different image of the Inconfidência conspiracy. After Joaquim José da Silva Xavier was executed on 21 April 1792, his head was sent to Vila Rica and displayed publicly in the central square."
+            },
+            {
+              "type": "text",
+              "text": "The display was part of the exemplary nature of Tiradentes’ punishment. His body was dismembered, and parts were sent to different places connected with his life. The head sent to Vila Rica was intended as a public demonstration of the Crown’s power. Its presence in the square is the story’s historical core."
+            },
+            {
+              "type": "text",
+              "text": "The mystery begins afterwards. In a tourist and literary itinerary, the municipality of Ouro Preto itself preserves a legend in which the head was supposedly stolen on a dark, stormy night by a priest who lived in the Cabeças district. The account says this man kept the skull in a box and sometimes placed it on a table to meditate before it."
+            },
+            {
+              "type": "text",
+              "text": "Another important version was recorded by the writer Bernardo Guimarães. In 1867, he wrote ‘A Cabeça do Tiradentes. Tradição mineira’ — ‘The Head of Tiradentes: A Minas Tradition’. His text tells the disappearance as a traditional story and describes a figure approaching in the night, removing the head and vanishing. Years later, the skull was supposedly associated with a mysterious man who had kept it as a kind of relic."
+            },
+            {
+              "type": "text",
+              "text": "The value of Bernardo’s account is not that it proves what happened in 1792. He wrote decades later and presented the narrative itself as tradition. His text is therefore an important source showing that the disappearance and its different versions already formed part of Ouro Preto’s memory in the nineteenth century."
+            },
+            {
+              "type": "text",
+              "text": "The sources used allow us to distinguish the story’s levels clearly. Tiradentes’ execution, dismemberment and the display of his head in Vila Rica belong to the historical core. The identity of the person who removed the head, the exact time of its disappearance, the priest’s story and the skull’s ultimate fate remain without a secure answer."
+            },
+            {
+              "type": "text",
+              "text": "That is what makes the story so powerful. At Ouro Preto’s most visited location is an episode in which historical documentation gives way to tradition. Centuries later, the essential question remains open: after being displayed in former Vila Rica, where did Tiradentes’ head end up?"
+            },
+            {
+              "type": "heading",
+              "text": "Documented core"
+            },
+            {
+              "type": "text",
+              "text": "Tiradentes was executed in 1792 and his body was dismembered."
+            },
+            {
+              "type": "text",
+              "text": "His head was sent to Vila Rica."
+            },
+            {
+              "type": "text",
+              "text": "The head was displayed in the central square, now Tiradentes Square."
+            },
+            {
+              "type": "heading",
+              "text": "Tradition and unresolved questions"
+            },
+            {
+              "type": "text",
+              "text": "The theft by a priest living in Cabeças."
+            },
+            {
+              "type": "text",
+              "text": "Exactly how the head was removed."
+            },
+            {
+              "type": "text",
+              "text": "The skull’s final destination."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "The Head That Vanished from the Square",
+          "seoDescription": "Tiradentes’ head was displayed in Vila Rica after his execution. What happened next remains surrounded by different traditions.",
+          "shortScript": ""
+        }
+      }
+    },
+    {
+      "editorialCode": "OP-004",
+      "id": "op-004",
+      "cityId": "ouro-preto",
+      "locationId": "vira-saia",
+      "truthStatus": "oral_tradition",
+      "accessLevel": "premium",
+      "depth": "story",
+      "category": "Segredos e símbolos",
+      "estimatedSeconds": 165,
+      "image": "/media/ouro-preto.jpg",
+      "imageCredit": "Alisson Jonas Cardoso Gontijo · CC BY-SA 4.0 · Wikimedia Commons. Fotografia panorâmica de Ouro Preto, não do local específico.",
+      "mapImage": "/media/landing/ouro-preto-night.webp",
+      "mapImageCredit": "Ilustração contextual de Ouro Preto por IA · Cidade Oculta · não retrata o local exato",
+      "sources": [
+        {
+          "title": "Prefeitura de Ouro Preto — Dossiê de Tombamento da Igreja Matriz de São Gonçalo e seu Acervo",
+          "url": "https://ouropreto.mg.gov.br/turismo/arquivos/dossies/Dossi%C3%AA%20de%20Tombamento_Igreja%20Matriz%20de%20S%C3%A3o%20Gon%C3%A7alo_Completo_atualizado%202023.pdf",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Fonte-base indicada no documento editorial OP-001 a OP-006. Distingue o registro do patrimônio ou da tradição da comprovação dos episódios narrados."
+        },
+        {
+          "title": "Prefeitura de Ouro Preto — Oratório do Vira Saia",
+          "url": "https://www.ouropreto.mg.gov.br/turismo/atrativo-item/1360",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Fonte-base indicada no documento editorial OP-001 a OP-006. Distingue o registro do patrimônio ou da tradição da comprovação dos episódios narrados."
+        }
+      ],
+      "localeContent": {
+        "pt-br": {
+          "slug": "almas-do-purgatorio-ouro-preto",
+          "title": "As Almas do Purgatório",
+          "hook": "Vultos noturnos e um bando lendário dividem a mesma paisagem de medo.",
+          "summary": "Duas tradições de Vila Rica se cruzam: vultos noturnos que teriam assustado moradores e um bando ligado a Vira-Saia chamado Almas do Purgatório.",
+          "editorialNote": "Os dossiês registram tradições, não comprovam aparições sobrenaturais nem que os vultos fossem salteadores disfarçados. O oratório é a referência geográfica desta narrativa, sem indicar um ponto comprovado de aparição.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Entre as tradições preservadas nos dossiês patrimoniais de Ouro Preto existe uma descrição particularmente visual dos primeiros anos do século XVIII. Moradores de Vila Rica teriam vivido alarmados com a aparição, ao cair da noite, de vultos que desciam dos morros próximos. A crença popular descrevia essas figuras com características fantásticas, como asas, chifres e pés de pato."
+            },
+            {
+              "type": "text",
+              "text": "Segundo o relato patrimonial, o medo teria sido grande o suficiente para que moradores pedissem autorização religiosa para instalar oratórios nas casas, especialmente em prédios de esquina. Nessas pequenas estruturas, uma lâmpada de azeite permaneceria acesa. A tradição, portanto, oferece uma explicação popular para a presença de diversos oratórios de fachada na paisagem urbana."
+            },
+            {
+              "type": "text",
+              "text": "No mesmo universo narrativo aparece outro nome: Almas do Purgatório. Dossiês municipais registram que Antônio Francisco Alves, o Vira-Saia, teria chefiado um bando conhecido por essa denominação. O próprio documento explica o nome como uma referência aos sustos que o grupo provocava na população durante a noite. Mais tarde, o bando também teria passado a ser chamado de Vira-Saias, em homenagem ao líder."
+            },
+            {
+              "type": "text",
+              "text": "É tentador unir as duas histórias e afirmar que os vultos sobrenaturais eram apenas integrantes do grupo disfarçados. Mas as fontes consultadas não permitem dar esse salto como fato. Elas preservam a tradição dos fantasmas e, separadamente, a tradição do bando. A semelhança temática — medo noturno, assombrações e o nome Almas do Purgatório — cria uma associação narrativa, mas não uma prova histórica de identidade entre os dois fenômenos."
+            },
+            {
+              "type": "text",
+              "text": "As Almas do Purgatório também aparecem ligadas ao conjunto de histórias sobre roubos de carregamentos de ouro. Vira-Saia teria recebido informações privilegiadas sobre as rotas e coordenado os integrantes do grupo a partir de sinais. Mais uma vez, estamos no campo da memória tradicional preservada pelos documentos de patrimônio."
+            },
+            {
+              "type": "text",
+              "text": "Essa história é valiosa porque ajuda a entender como uma cidade colonial também era interpretada por seus próprios moradores. Ruas escuras, morros, poucas fontes de iluminação e religiosidade intensa formavam um ambiente propício para relatos de assombração. Ao mesmo tempo, a existência de crimes, contrabando e grupos de salteadores oferecia uma dimensão muito concreta ao medo."
+            },
+            {
+              "type": "text",
+              "text": "As Almas do Purgatório sobrevivem exatamente nessa fronteira. Podem ser lidas como o nome de um bando lendário, como parte do imaginário das noites de Vila Rica ou como um encontro entre as duas coisas. O que não se pode fazer é transformar essa aproximação em certeza histórica."
+            },
+            {
+              "type": "heading",
+              "text": "Núcleo documentado"
+            },
+            {
+              "type": "text",
+              "text": "Dossiês municipais registram a existência dessas tradições como parte da memória de Ouro Preto."
+            },
+            {
+              "type": "text",
+              "text": "Oratórios de fachada são bens materiais efetivamente preservados na cidade."
+            },
+            {
+              "type": "text",
+              "text": "O Sobrado e o Oratório do Vira-Saia são patrimônios existentes."
+            },
+            {
+              "type": "heading",
+              "text": "Tradição e pontos não estabelecidos"
+            },
+            {
+              "type": "text",
+              "text": "Os vultos com asas, chifres e pés de pato."
+            },
+            {
+              "type": "text",
+              "text": "Vira-Saia como chefe do bando Almas do Purgatório."
+            },
+            {
+              "type": "text",
+              "text": "A eventual identidade entre os vultos e os integrantes do bando."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "As Almas do Purgatório",
+          "seoDescription": "Duas tradições de Vila Rica se cruzam: vultos noturnos que teriam assustado moradores e um bando ligado a Vira-Saia chamado Almas do Purgatório.",
+          "shortScript": ""
+        },
+        "en": {
+          "slug": "souls-of-purgatory-ouro-preto",
+          "title": "The Souls of Purgatory",
+          "hook": "Night-time apparitions and a legendary band share the same landscape of fear.",
+          "summary": "Two traditions of Vila Rica intersect: night-time figures said to have frightened residents, and a band linked to Vira-Saia called the Souls of Purgatory.",
+          "editorialNote": "Municipal heritage records preserve the traditions; they do not prove supernatural apparitions or that the figures were disguised robbers. The shrine serves as a geographic reference for the narrative, not a verified sighting location.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Among the traditions preserved in Ouro Preto’s heritage dossiers is a particularly visual account of the early eighteenth century. Residents of Vila Rica supposedly lived in fear of figures that descended from nearby hills at nightfall. Popular belief described them with fantastic features such as wings, horns and duck-like feet."
+            },
+            {
+              "type": "text",
+              "text": "According to the heritage account, the fear was allegedly so great that residents asked religious authorities for permission to install shrines on their houses, particularly on corner buildings. An oil lamp would remain lit inside these small structures. The tradition thus offers a popular explanation for the presence of numerous facade shrines in the urban landscape."
+            },
+            {
+              "type": "text",
+              "text": "Another name appears in the same narrative world: Almas do Purgatório, or Souls of Purgatory. Municipal dossiers record that Antônio Francisco Alves, known as Vira-Saia, supposedly led a band with that name. The document itself explains the name as a reference to the frights the group caused among the population at night. Later, the band was also supposedly called the Vira-Saias, after its leader."
+            },
+            {
+              "type": "text",
+              "text": "It is tempting to join the two stories and assert that the supernatural figures were simply disguised members of the band. But the sources consulted do not support that leap as fact. They preserve the ghost tradition and, separately, the band’s tradition. Their shared themes — night-time fear, hauntings and the name Souls of Purgatory — create a narrative association, not historical proof that the two were one and the same."
+            },
+            {
+              "type": "text",
+              "text": "The Souls of Purgatory also appear in stories about robberies of gold shipments. Vira-Saia supposedly received privileged information about routes and coordinated the group through signals. Once again, this belongs to traditional memory preserved in heritage documents."
+            },
+            {
+              "type": "text",
+              "text": "The story matters because it helps us understand how a colonial city was also interpreted by its own residents. Dark streets, hills, few sources of light and intense religious life created an environment conducive to ghost stories. At the same time, crime, smuggling and bands of robbers gave fear a very tangible dimension."
+            },
+            {
+              "type": "text",
+              "text": "The Souls of Purgatory survive precisely on that boundary. They can be read as the name of a legendary band, part of the imagination surrounding Vila Rica’s nights, or a meeting of both. What cannot be done is to turn that association into historical certainty."
+            },
+            {
+              "type": "heading",
+              "text": "Documented core"
+            },
+            {
+              "type": "text",
+              "text": "Municipal dossiers record these traditions as part of Ouro Preto’s memory."
+            },
+            {
+              "type": "text",
+              "text": "Facade shrines are physical heritage sites that survive in the city."
+            },
+            {
+              "type": "text",
+              "text": "The Vira-Saia townhouse and oratory are existing heritage sites."
+            },
+            {
+              "type": "heading",
+              "text": "Tradition and unresolved questions"
+            },
+            {
+              "type": "text",
+              "text": "The figures with wings, horns and duck-like feet."
+            },
+            {
+              "type": "text",
+              "text": "Vira-Saia leading the Souls of Purgatory band."
+            },
+            {
+              "type": "text",
+              "text": "Whether the figures and the band’s members were the same people."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "The Souls of Purgatory",
+          "seoDescription": "Two traditions of Vila Rica intersect: night-time figures said to have frightened residents, and a band linked to Vira-Saia called the Souls of Purgatory.",
+          "shortScript": ""
+        }
+      }
+    },
+    {
+      "editorialCode": "OP-005",
+      "id": "op-005",
+      "cityId": "ouro-preto",
+      "locationId": "sobrado-vira-saia",
+      "truthStatus": "oral_tradition",
+      "accessLevel": "premium",
+      "depth": "story",
+      "category": "Segredos e símbolos",
+      "estimatedSeconds": 151,
+      "image": "/media/ouro-preto.jpg",
+      "imageCredit": "Alisson Jonas Cardoso Gontijo · CC BY-SA 4.0 · Wikimedia Commons. Fotografia panorâmica de Ouro Preto, não do local específico.",
+      "mapImage": "/media/landing/ouro-preto-night.webp",
+      "mapImageCredit": "Ilustração contextual de Ouro Preto por IA · Cidade Oculta · não retrata o local exato",
+      "sources": [
+        {
+          "title": "Prefeitura de Ouro Preto — Dossiê de Tombamento do Conjunto Ferroviário de Miguel Burnier (trecho histórico sobre Vira-Saia)",
+          "url": "https://ouropreto.mg.gov.br/turismo/arquivos/dossies/Dossi%C3%AA%20de%20Tombamento_Conjunto%20Ferrovi%C3%A1rio%20de%20Miguel%20Burnier_atualizado%202023.pdf",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Fonte-base indicada no documento editorial OP-001 a OP-006. Distingue o registro do patrimônio ou da tradição da comprovação dos episódios narrados."
+        },
+        {
+          "title": "Prefeitura de Ouro Preto — Sobrado do Vira-Saia",
+          "url": "https://www.ouropreto.mg.gov.br/turismo/atrativo-item/1385",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Fonte-base indicada no documento editorial OP-001 a OP-006. Distingue o registro do patrimônio ou da tradição da comprovação dos episódios narrados."
+        }
+      ],
+      "localeContent": {
+        "pt-br": {
+          "slug": "tesouro-perdido-vira-saia",
+          "title": "O Tesouro Perdido de Vira-Saia",
+          "hook": "Uma traição. Uma casa saqueada. E a lenda de uma fortuna que ninguém encontrou.",
+          "summary": "A tradição em torno de Vira-Saia termina em traição, morte e pilhagem — mas também preservou a ideia de uma fortuna escondida que nunca teria sido encontrada.",
+          "editorialNote": "As fontes registram a tradição de um tesouro, não uma fortuna comprovada. Não há localização conhecida de esconderijo. O sobrado é a referência patrimonial da narrativa, não um ponto de busca ou escavação.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "A história do suposto tesouro de Vira-Saia não começa com um mapa, uma escavação ou uma descoberta arqueológica. Ela nasce do desfecho trágico atribuído ao personagem na tradição de Ouro Preto."
+            },
+            {
+              "type": "text",
+              "text": "Os dossiês patrimoniais do município registram uma narrativa segundo a qual Antônio Francisco Alves teria comandado um grupo de salteadores que interceptava carregamentos de ouro. A operação dependeria de informações antecipadas sobre as rotas dos comboios. Um informante ligado à Casa de Fundição teria avisado Vira-Saia, que então repassaria o caminho ao restante do grupo."
+            },
+            {
+              "type": "text",
+              "text": "A mesma tradição afirma que esse esquema terminou após uma traição. Um espanhol que faria parte do bando teria denunciado Antônio e seu informante às autoridades portuguesas, seduzido pela promessa de recompensa e de retorno à sua terra natal. O fim narrado pelos documentos é violento: Vira-Saia, sua mulher e suas filhas teriam sido mortos, e a casa teria sido pilhada."
+            },
+            {
+              "type": "text",
+              "text": "É depois desse episódio que surge o tesouro. Um dos dossiês da Prefeitura afirma que a memória de Vira-Saia continuou viva não apenas por causa dos acontecimentos trágicos, mas também pela suposta existência de um tesouro escondido por ele e jamais encontrado."
+            },
+            {
+              "type": "text",
+              "text": "A formulação é importante. O documento registra a existência da tradição sobre o tesouro; não comprova a existência de uma fortuna enterrada. Também não fornece localização, mapa ou pista material que permita situá-la sob o sobrado, dentro das paredes ou em qualquer outro ponto específico de Ouro Preto."
+            },
+            {
+              "type": "text",
+              "text": "Isso muda a forma como a história deve ser contada. Não estamos diante de um “tesouro real esperando para ser descoberto”, mas de uma lenda patrimonial cuja força vem da combinação de elementos muito poderosos: ouro, um fora-da-lei, uma traição, uma casa saqueada e uma fortuna que teria escapado aos vencedores."
+            },
+            {
+              "type": "text",
+              "text": "O Sobrado do Vira-Saia permanece como a âncora física dessa narrativa. Quem olha para o casarão vê um edifício do século XVIII ligado ao nome de Antônio Francisco Alves. A partir dele, a imaginação popular construiu a pergunta que ainda sobrevive: se a casa foi pilhada, teria existido algo que os invasores não encontraram?"
+            },
+            {
+              "type": "text",
+              "text": "Não há resposta documental para isso. O tesouro de Vira-Saia continua onde sempre esteve: no espaço entre memória coletiva, tradição oral e possibilidade."
+            },
+            {
+              "type": "heading",
+              "text": "Núcleo documentado"
+            },
+            {
+              "type": "text",
+              "text": "O Sobrado do Vira-Saia é um bem histórico associado a Antônio Francisco Alves."
+            },
+            {
+              "type": "text",
+              "text": "Dossiês patrimoniais registram a tradição da traição, da morte e da pilhagem."
+            },
+            {
+              "type": "text",
+              "text": "Os mesmos documentos registram a existência da narrativa sobre um tesouro nunca encontrado."
+            },
+            {
+              "type": "heading",
+              "text": "Tradição e pontos não estabelecidos"
+            },
+            {
+              "type": "text",
+              "text": "A existência efetiva do tesouro."
+            },
+            {
+              "type": "text",
+              "text": "O conteúdo ou valor da suposta fortuna."
+            },
+            {
+              "type": "text",
+              "text": "A localização de qualquer esconderijo."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "O Tesouro Perdido de Vira-Saia",
+          "seoDescription": "A tradição em torno de Vira-Saia termina em traição, morte e pilhagem — mas também preservou a ideia de uma fortuna escondida que nunca teria sido encontrada.",
+          "shortScript": ""
+        },
+        "en": {
+          "slug": "vira-saia-lost-treasure",
+          "title": "Vira-Saia’s Lost Treasure",
+          "hook": "A legend of betrayal and a ransacked house left one question: did anything remain hidden?",
+          "summary": "The tradition surrounding Vira-Saia ends in betrayal, death and looting — but also preserved the idea of a hidden fortune that was supposedly never found.",
+          "editorialNote": "The sources record a tradition about treasure, not proof that treasure exists. No hiding place is known. The townhouse is a heritage reference, not a location for searching or excavation.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "The story of Vira-Saia’s supposed treasure does not begin with a map, an excavation or an archaeological discovery. It arises from the tragic ending attributed to the character in Ouro Preto’s tradition."
+            },
+            {
+              "type": "text",
+              "text": "Municipal heritage dossiers record a narrative in which Antônio Francisco Alves supposedly led a band of robbers who intercepted gold shipments. The operation allegedly depended on advance information about convoy routes. An informer connected with the gold foundry supposedly alerted Vira-Saia, who then passed the route on to the rest of the group."
+            },
+            {
+              "type": "text",
+              "text": "The same tradition says the scheme ended in betrayal. A Spaniard who allegedly belonged to the band denounced Antônio and his informer to Portuguese authorities, lured by the promise of a reward and a return to his homeland. The ending recounted in the documents is violent: Vira-Saia, his wife and daughters were supposedly killed, and the house was ransacked."
+            },
+            {
+              "type": "text",
+              "text": "It is after this episode that the treasure appears. One of the municipality’s dossiers says Vira-Saia’s memory remained alive not only because of the tragic events but also because of the supposed existence of a treasure he had hidden and that had never been found."
+            },
+            {
+              "type": "text",
+              "text": "The wording matters. The document records the existence of the treasure tradition; it does not establish that a buried fortune exists. Nor does it provide a location, map or physical clue placing it beneath the townhouse, inside its walls or anywhere else in Ouro Preto."
+            },
+            {
+              "type": "text",
+              "text": "This changes how the story should be told. We are not dealing with a ‘real treasure waiting to be discovered’, but a heritage legend whose strength lies in its combination of powerful elements: gold, an outlaw, betrayal, a looted house and a fortune that supposedly escaped the victors."
+            },
+            {
+              "type": "text",
+              "text": "The Vira-Saia townhouse remains the physical anchor of this narrative. Looking at the building, we see an eighteenth-century house associated with Antônio Francisco Alves. From it, popular imagination constructed the question that still survives: if the house was ransacked, could something have existed that the intruders did not find?"
+            },
+            {
+              "type": "text",
+              "text": "There is no documentary answer. Vira-Saia’s treasure remains where it has always been: in the space between collective memory, oral tradition and possibility."
+            },
+            {
+              "type": "heading",
+              "text": "Documented core"
+            },
+            {
+              "type": "text",
+              "text": "The Vira-Saia townhouse is a historic site associated with Antônio Francisco Alves."
+            },
+            {
+              "type": "text",
+              "text": "Heritage dossiers record the tradition of betrayal, death and looting."
+            },
+            {
+              "type": "text",
+              "text": "Those documents also record the narrative of a treasure that was never found."
+            },
+            {
+              "type": "heading",
+              "text": "Tradition and unresolved questions"
+            },
+            {
+              "type": "text",
+              "text": "The actual existence of the treasure."
+            },
+            {
+              "type": "text",
+              "text": "The contents or value of the supposed fortune."
+            },
+            {
+              "type": "text",
+              "text": "The location of any hiding place."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "Vira-Saia’s Lost Treasure",
+          "seoDescription": "The tradition surrounding Vira-Saia ends in betrayal, death and looting — but also preserved the idea of a hidden fortune that was supposedly never found.",
+          "shortScript": ""
+        }
+      }
+    },
+    {
+      "editorialCode": "OP-006",
+      "id": "op-006",
+      "cityId": "ouro-preto",
+      "locationId": "sobrado-vira-saia",
+      "truthStatus": "documented",
+      "accessLevel": "lead",
+      "depth": "story",
+      "category": "Arte e arquitetura",
+      "estimatedSeconds": 160,
+      "image": "/media/ouro-preto.jpg",
+      "imageCredit": "Alisson Jonas Cardoso Gontijo · CC BY-SA 4.0 · Wikimedia Commons. Fotografia panorâmica de Ouro Preto, não do local específico.",
+      "mapImage": "/media/landing/ouro-preto-night.webp",
+      "mapImageCredit": "Ilustração contextual de Ouro Preto por IA · Cidade Oculta · não retrata o local exato",
+      "sources": [
+        {
+          "title": "Prefeitura de Ouro Preto — Sobrado do Vira-Saia",
+          "url": "https://www.ouropreto.mg.gov.br/turismo/atrativo-item/1385",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Fonte-base indicada no documento editorial OP-001 a OP-006. Distingue o registro do patrimônio ou da tradição da comprovação dos episódios narrados."
+        },
+        {
+          "title": "Prefeitura de Ouro Preto — Passeio a Ouro Preto com Guignard",
+          "url": "https://www.ouropreto.mg.gov.br/turismo/rota-item/18",
+          "institution": "Prefeitura de Ouro Preto",
+          "note": "Fonte-base indicada no documento editorial OP-001 a OP-006. Distingue o registro do patrimônio ou da tradição da comprovação dos episódios narrados."
+        }
+      ],
+      "localeContent": {
+        "pt-br": {
+          "slug": "inscricao-1741-vira-saia",
+          "title": "A Inscrição de 1741",
+          "hook": "Um nome e uma data gravados na pedra atravessam o universo das lendas.",
+          "summary": "No interior do sobrado associado a Vira-Saia existe uma placa de pedra-sabão datada de 1741, uma das marcas materiais mais fortes ligadas ao personagem.",
+          "editorialNote": "Documentado com contexto tradicional: a placa e sua transcrição não comprovam os relatos de roubos, códigos ou tesouros. Não atribuímos significado às abreviações sem fonte específica. A página municipal informa que o sobrado está fechado aguardando reformas estruturais; este conteúdo não pressupõe visitação ao interior.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Depois de tantas histórias sobre códigos, salteadores, tesouros e assombrações, o Sobrado do Vira-Saia guarda um elemento de natureza diferente: uma peça material datada."
+            },
+            {
+              "type": "text",
+              "text": "A página oficial de turismo de Ouro Preto informa que o imóvel possui, embutida em uma pilastra interna, uma placa de pedra-sabão de 1741 com informações relacionadas à construção. Em um roteiro municipal, a inscrição aparece transcrita com o nome de Antônio Francisco Alves e o mesmo ano. A peça é, portanto, uma evidência física que atravessou os séculos e permaneceu ligada à casa."
+            },
+            {
+              "type": "text",
+              "text": "O roteiro registra a inscrição como: “Antônio Francisco Alves o fez a sua custa. Pelas Almas P. N.A. M. A. – 1741”. A presença do nome é especialmente relevante porque muitas outras informações sobre Vira-Saia chegaram até nós principalmente por tradição oral. A placa não comprova os relatos sobre roubos, códigos secretos ou tesouros, mas reforça a associação histórica entre Antônio Francisco Alves, o imóvel e o século XVIII."
+            },
+            {
+              "type": "text",
+              "text": "Isso permite contar a história de maneira mais precisa. A existência da placa e sua datação são elementos documentados. Já a interpretação de cada abreviação da inscrição exige cuidado: sem uma fonte específica que explique com segurança o significado de todas as letras, não é adequado preencher essas lacunas por conjectura."
+            },
+            {
+              "type": "text",
+              "text": "O valor da peça também está no contraste com o restante do universo de Vira-Saia. A tradição transformou Antônio em chefe de bando, “Robin Hood”, conhecedor das rotas do ouro e personagem de um tesouro perdido. A pedra não confirma nenhuma dessas aventuras. O que ela faz é algo mais simples e, para a pesquisa histórica, muito importante: preserva um nome, uma data e a ligação material com o casarão."
+            },
+            {
+              "type": "text",
+              "text": "A casa é um edifício setecentista e a Prefeitura atualmente a apresenta como Sobrado do Vira-Saia. O imóvel passou por problemas estruturais e permanece como patrimônio de interesse para a cidade. Dentro dele, a pedra de 1741 funciona como uma espécie de ponto de encontro entre o personagem histórico e o personagem lendário."
+            },
+            {
+              "type": "text",
+              "text": "Em Ouro Preto, onde tantas narrativas dependem de memórias transmitidas ao longo do tempo, uma inscrição material muda o tom da história. Ela não resolve os mistérios de Vira-Saia, mas mostra que, por trás das lendas, existe um conjunto real de lugares e objetos que ainda pode ser observado, estudado e preservado."
+            },
+            {
+              "type": "heading",
+              "text": "Núcleo documentado"
+            },
+            {
+              "type": "text",
+              "text": "O Sobrado do Vira-Saia contém uma placa de pedra-sabão embutida em uma pilastra."
+            },
+            {
+              "type": "text",
+              "text": "A placa é datada de 1741."
+            },
+            {
+              "type": "text",
+              "text": "Um roteiro oficial transcreve a inscrição com o nome de Antônio Francisco Alves."
+            },
+            {
+              "type": "heading",
+              "text": "Tradição e pontos não estabelecidos"
+            },
+            {
+              "type": "text",
+              "text": "Usar a placa como prova dos relatos de roubos, tesouros ou códigos."
+            },
+            {
+              "type": "text",
+              "text": "Interpretar abreviações da inscrição sem uma fonte específica."
+            },
+            {
+              "type": "text",
+              "text": "Concluir, apenas pela placa, toda a biografia lendária de Vira-Saia."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "A Inscrição de 1741",
+          "seoDescription": "No interior do sobrado associado a Vira-Saia existe uma placa de pedra-sabão datada de 1741, uma das marcas materiais mais fortes ligadas ao personagem.",
+          "shortScript": ""
+        },
+        "en": {
+          "slug": "the-1741-inscription",
+          "title": "The Inscription of 1741",
+          "hook": "A name and a date carved in stone stand apart from the legends.",
+          "summary": "Inside the townhouse associated with Vira-Saia is a soapstone plaque dated 1741, one of the strongest material traces linked to the character.",
+          "editorialNote": "Documented, with traditional context: the plaque and its recorded inscription do not prove the stories of robberies, secret codes or treasure. No speculative expansion of the abbreviations is offered. The municipal page says the building is closed awaiting structural repairs; this story does not imply that its interior is open to visitors.",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "After so many stories of codes, robbers, treasure and hauntings, the Vira-Saia townhouse holds something of a different nature: a dated physical object."
+            },
+            {
+              "type": "text",
+              "text": "Ouro Preto’s official tourism page states that a soapstone plaque from 1741, with information about the building’s construction, is embedded in an interior pilaster. A municipal itinerary transcribes the inscription with the name Antônio Francisco Alves and the same year. The object is therefore physical evidence that has survived centuries and remained connected with the house."
+            },
+            {
+              "type": "text",
+              "text": "The itinerary records the inscription as: ‘Antônio Francisco Alves o fez a sua custa. Pelas Almas P. N.A. M. A. – 1741’. The presence of the name is especially relevant because much other information about Vira-Saia has reached us mainly through oral tradition. The plaque does not prove the accounts of robberies, secret codes or treasure, but strengthens the historical association between Antônio Francisco Alves, the building and the eighteenth century."
+            },
+            {
+              "type": "text",
+              "text": "This allows the story to be told more precisely. The plaque’s existence and its date are documented elements. Interpreting each abbreviation, however, requires care: without a specific source explaining all the letters reliably, the gaps should not be filled with conjecture."
+            },
+            {
+              "type": "text",
+              "text": "The object’s value also lies in its contrast with the rest of Vira-Saia’s world. Tradition turned Antônio into a band leader, a ‘Robin Hood’, someone who knew the gold routes and the subject of a lost-treasure story. The stone confirms none of those adventures. What it does is simpler and very important for historical research: it preserves a name, a date and a material connection with the house."
+            },
+            {
+              "type": "text",
+              "text": "The house is an eighteenth-century building that the municipality now presents as the Vira-Saia townhouse. It has suffered structural problems and remains part of the city’s heritage. Inside, the stone of 1741 acts as a meeting point between the historical character and the legendary one."
+            },
+            {
+              "type": "text",
+              "text": "In Ouro Preto, where so many narratives rely on memories passed down over time, a physical inscription changes the story’s tone. It does not solve Vira-Saia’s mysteries, but shows that behind the legends is a real collection of places and objects that can still be observed, studied and preserved."
+            },
+            {
+              "type": "heading",
+              "text": "Documented core"
+            },
+            {
+              "type": "text",
+              "text": "The Vira-Saia townhouse contains a soapstone plaque embedded in a pilaster."
+            },
+            {
+              "type": "text",
+              "text": "The plaque is dated 1741."
+            },
+            {
+              "type": "text",
+              "text": "An official itinerary transcribes the inscription with Antônio Francisco Alves’ name."
+            },
+            {
+              "type": "heading",
+              "text": "Tradition and unresolved questions"
+            },
+            {
+              "type": "text",
+              "text": "Using the plaque as proof of robberies, treasure or secret codes."
+            },
+            {
+              "type": "text",
+              "text": "Interpreting the inscription’s abbreviations without a specific source."
+            },
+            {
+              "type": "text",
+              "text": "Inferring the entire legendary biography from the plaque alone."
+            }
+          ],
+          "status": "published",
+          "seoTitle": "The Inscription of 1741",
+          "seoDescription": "Inside the townhouse associated with Vira-Saia is a soapstone plaque dated 1741, one of the strongest material traces linked to the character.",
+          "shortScript": ""
+        }
+      }
+    }
+  ]
+}

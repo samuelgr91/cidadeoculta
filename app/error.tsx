@@ -1,0 +1,1 @@
+'use client';export default function Error({reset}:{reset:()=>void}){return <main className="page"><h1 style={{fontSize:60}}>Uma pausa na descoberta.</h1><p>Não foi possível carregar agora. Seu acesso e seus dados continuam salvos.</p><button className="button" onClick={reset}>Tentar novamente</button><a className="button secondary" href="/">Voltar ao início</a></main>;}
